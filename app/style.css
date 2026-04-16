@@ -1,0 +1,18 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #000;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+canvas {
+  display: block;
+}
+
+#tooltip {
+  z-index: 20;
+  max-width: 260px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}

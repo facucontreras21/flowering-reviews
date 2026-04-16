@@ -1,0 +1,3854 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          101.7005514,
+          3.1606451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-03-20T12:09:36.028914Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfaed013ac5c76105",
+        "location": {
+          "address": "The Colony Infinitum | Roxy Pacific & Macly Group, Jalan Dewan Sultan Sulaiman, Chow Kit, 50300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malasia",
+          "name": "The Colony By Infinitum"
+        },
+        "review_text_published": "Our stay unfortunately did not go as expected.\n\nWhen we arrived late at night, the apartment was not fully prepared for four guests as booked — there was only one bed available and additional mattresses had to be brought later.\n\nAfter going to sleep, we discovered several bed bugs in the bedroom mattress. We immediately informed the reception and staff came to spray chemicals and change the sheets. However, considering the situation and the hygiene concerns, we did not feel comfortable sleeping in the bedroom anymore.\n\nAs a result, all four of us ended up sleeping on additional mattresses placed on the living room floor, which made the night quite uncomfortable and left everyone feeling uneasy about the hygiene conditions.\n\nThe staff did try to respond during the night, but unfortunately the situation could not be properly resolved and we had to move to another accommodation the next day.\n\nI hope the property addresses this issue seriously, as bed bugs are a significant hygiene problem and can greatly affect guests’ experience."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2532664,
+          -8.4926471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-17T09:57:14.723294Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5c9b53e04a5de852",
+        "location": {
+          "address": "Jl. Raya Sanggingan, Kedewatan, Kecamatan Ubud, Kabupaten Gianyar, Bali 80561, Indonesia",
+          "country_code": "ID",
+          "name": "Room4Dessert"
+        },
+        "questions": [
+          {
+            "question": "Precio por persona",
+            "selected_option": "Más de 250.000 Rp"
+          },
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          },
+          {
+            "question": "Nivel de ruido",
+            "selected_option": "Bajo, pero se puede conversar fácilmente"
+          },
+          {
+            "question": "Tamaño del grupo",
+            "selected_options": [
+              "Para grupos de todos los tamaños"
+            ]
+          }
+        ],
+        "review_text_published": "We had the spiritless tasting and I don't have more words than: WOW, surprising, kind, beautiful, fullfilling all the staff was also so beautiful, so nice with us, and they really made us have a beautiful night! Then the following day we had a such a nice walk through the garden with Arista, the back stage of the story that the restaurant told us."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2794535,
+          -8.4299971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-16T08:18:07.851594Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x78917f0c893ea6d",
+        "location": {
+          "address": "Tegallalang, Gianyar Regency, Bali 80561, Indonesia",
+          "country_code": "ID",
+          "name": "Mupu Rice Terrace"
+        },
+        "questions": [
+          {
+            "question": "Se visitó en",
+            "selected_option": "Día laborable"
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Sin espera"
+          },
+          {
+            "question": "Reserva recomendada",
+            "selected_option": "No"
+          }
+        ],
+        "review_text_published": "Beautiful view to the terrace fields, and we had such an amazing time talking about life with made sate, they owner of those fields"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2641471,
+          -8.5095992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-13T11:04:40.816409Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5b4127919aae15e5",
+        "location": {
+          "address": "Jl. Gootama No.13, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia",
+          "country_code": "ID",
+          "name": "Mai Malu Warung"
+        },
+        "review_text_published": "We had a great time and they could make our food according to our dietary requirements"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.0603440,
+          35.1483662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-06T03:02:14.822874Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xedf489c6cf3d419f",
+        "location": {
+          "address": "20-8 Hwangnyeong-daero 7beon-gil, Busanjin District, Busan, Corea del Sur",
+          "country_code": "KR",
+          "name": "Kimchee Busan Guesthouse"
+        },
+        "review_text_published": "The hostel has all the amenities, but the pipes going through some rooms are noisy, like it recharging something, it's ok if you are going to use it only as a base to visit the surroundings"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.9846650,
+          37.5691113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-03T07:52:07.473874Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe0b538890508068",
+        "location": {
+          "address": "Corea del Sur, Seoul, Jongno District, Gwancheol-dong, 180 4 층",
+          "country_code": "KR",
+          "name": "Seoul Cube Jongro"
+        },
+        "review_text_published": "It's nice, it's what you expect from a capsule hostel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.4477966,
+          -8.6736477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T10:10:46.002092Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6fd3c6ae3372fdbb",
+        "location": {
+          "address": "8CGX+G4V, Br. Kelod, Jungutbatu, Kec. Nusa Penida, Kabupaten Klungkung, Bali 80771, Indonesia",
+          "country_code": "ID",
+          "name": "Nyuh Gading Home Stay Lembongan"
+        },
+        "questions": [
+          {
+            "question": "Tipo de viaje",
+            "selected_option": "Vacaciones"
+          },
+          {
+            "question": "Viaje en grupo",
+            "selected_option": "Familia"
+          },
+          {
+            "question": "Habitaciones",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 4
+          },
+          {
+            "question": "Ubicación",
+            "rating": 4
+          },
+          {
+            "question": "Aspectos destacados del hotel",
+            "selected_options": [
+              "Buen precio"
+            ]
+          }
+        ],
+        "review_text_published": "This is the first hostel ever on doing my bed even though I was staying there, haha I was surprised I liked it"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          146.8065010,
+          -19.2397743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T10:09:31.768382Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb751afc6ddd7a0eb",
+        "location": {
+          "address": "The Strand, North Ward QLD 4810, Australia",
+          "country_code": "AU",
+          "name": "Strand Rockpool"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          146.7581341,
+          -19.2767748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T10:09:21.094386Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xed3e0164b2ef45fb",
+        "location": {
+          "address": "Domain Central, 103 Duckworth St, Garbutt QLD 4814, Australia",
+          "country_code": "AU",
+          "name": "JB Hi-Fi Townsville HOME"
+        },
+        "review_text_published": "We always had good experiences here we always went to buy stuffs here"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2602837,
+          -8.5140359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T10:08:10.465123Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x432b6ac30c6063dc",
+        "location": {
+          "address": "Ubud, Jl. Monkey Forest, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia",
+          "country_code": "ID",
+          "name": "The Blue Door Bar, Restaurant & Club"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          },
+          {
+            "question": "Nivel de ruido",
+            "selected_option": "Bajo, pero se puede conversar fácilmente"
+          },
+          {
+            "question": "Tipo de asiento",
+            "selected_options": [
+              "Zona de comedor interior"
+            ]
+          }
+        ],
+        "review_text_published": "Really nice!! We got the special of tuestda pasta and wine, really lovely and our waitress recommended us some stuffs to do around ubud"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1566288,
+          -8.8146965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T10:07:15.251085Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1c826fc9fa103406",
+        "location": {
+          "address": "Uluwatu St No.200, Ungasan, South Kuta, Badung Regency, Bali 80361, Indonesia",
+          "country_code": "ID",
+          "name": "PIZZERIA ITALIA II"
+        },
+        "questions": [
+          {
+            "question": "Tipo de pedido",
+            "selected_option": "Comí allí"
+          },
+          {
+            "question": "Tipo de comida",
+            "selected_option": "Cena"
+          },
+          {
+            "question": "Precio por persona",
+            "selected_option": "Más de 250.000 Rp"
+          },
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          },
+          {
+            "question": "Nivel de ruido",
+            "selected_option": "Bajo, pero se puede conversar fácilmente"
+          }
+        ],
+        "review_text_published": "Really good services, and tasty pasta!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1606704,
+          -8.8477419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T10:05:27.805342Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd7fc41e66544fbab",
+        "location": {
+          "address": "Indonesia, Bali, Badung Regency, South Kuta, Ungasan, Unnamed Road",
+          "country_code": "ID",
+          "name": "Melasti Beach Ungasan"
+        },
+        "questions": [
+          {
+            "question": "Se visitó en",
+            "selected_option": "Día laborable"
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Sin espera"
+          },
+          {
+            "question": "Reserva recomendada",
+            "selected_option": "No"
+          }
+        ],
+        "review_text_published": "Nice place to spend the day and watch the kecak, remember that as it is a national park you have to pay a fee in cash"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1700763,
+          -8.7164156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T10:04:37.317413Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xda96bd2121f50811",
+        "location": {
+          "address": "Jl. Beachwalk Mall No.34B 3rd floor, Kuta, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia",
+          "country_code": "ID",
+          "name": "Acai Queen"
+        },
+        "questions": [
+          {
+            "question": "Tipo de pedido",
+            "selected_option": "Comí allí"
+          },
+          {
+            "question": "Tipo de comida",
+            "selected_option": "Comida"
+          },
+          {
+            "question": "Precio por persona",
+            "selected_option": "25-50 mil Rp"
+          },
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 3
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Sin espera"
+          }
+        ],
+        "review_text_published": "Nice place to have something quick, and cheap and small"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1299646,
+          -8.6586815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T10:02:55.345181Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x878881480576eb34",
+        "location": {
+          "address": "Jl. Pura Dalem No.1, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",
+          "country_code": "ID",
+          "name": "Dolan Restaurant & Park"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 3
+          },
+          {
+            "question": "Servicio",
+            "rating": 3
+          },
+          {
+            "question": "Ambiente",
+            "rating": 3
+          }
+        ],
+        "review_text_published": "It was nice but we wanted to eat pizza and they just informed us that they run out of them when we were making our order"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1303954,
+          -8.6589419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T10:00:39.969270Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb599b069341d8512",
+        "location": {
+          "address": "84RJ+C58, Jl. Pantai Batu Bolong No.117X, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",
+          "country_code": "ID",
+          "name": "Motel Mexicola | Canggu"
+        },
+        "questions": [
+          {
+            "question": "Tipo de comida",
+            "selected_option": "Otro"
+          },
+          {
+            "question": "Precio por persona",
+            "selected_option": "Más de 250.000 Rp"
+          },
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          },
+          {
+            "question": "Eventos especiales",
+            "selected_options": [
+              "Música en directo",
+              "Noche temática"
+            ]
+          }
+        ],
+        "review_text_published": "We went for party here and I just loved it we danced the whole night, the offer me to have the water flamingo and it was woooow"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.1258092,
+          -8.6541729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T09:58:18.650497Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x86929db7c4eabc29",
+        "location": {
+          "address": "Jl. Pantai Batu Mejan, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",
+          "country_code": "ID",
+          "name": "La Brisa Bali | Beach Club"
+        },
+        "questions": [
+          {
+            "question": "Tipo de comida",
+            "selected_option": "Comida"
+          },
+          {
+            "question": "Precio por persona",
+            "selected_option": "Más de 250.000 Rp"
+          },
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          },
+          {
+            "question": "Tamaño del grupo",
+            "selected_options": [
+              "1 persona",
+              "2 personas",
+              "3-4 personas",
+              "5-8 personas",
+              "+9 personas"
+            ]
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Menos de 10 min"
+          }
+        ],
+        "review_text_published": "The staff was so nice and always asking us if we were ok, food was also a 10 and we could move around the whole restaurant once that we spent the maximum required."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2606299,
+          -8.5193727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T09:55:22.781371Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb6ec43164befc356",
+        "location": {
+          "address": "Jl. Monkey Forest, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia",
+          "country_code": "ID",
+          "name": "Sacred Monkey Forest Sanctuary"
+        },
+        "questions": [
+          {
+            "question": "Se visitó en",
+            "selected_option": "Día laborable"
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Sin espera"
+          },
+          {
+            "question": "Reserva recomendada",
+            "selected_option": "No"
+          }
+        ],
+        "review_text_published": "Be careful with the monkey they bite and sometimes gets annoyed if you watch them at their eyes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.2793030,
+          -8.4317112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T09:54:07.881773Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8d1a8969386c04ed",
+        "location": {
+          "address": "Jl. Raya Tegallalang, Tegallalang, Kec. Tegallalang, Kabupaten Gianyar, Bali 80561, Indonesia",
+          "country_code": "ID",
+          "name": "Tegallalang Rice Terrace"
+        },
+        "questions": [
+          {
+            "question": "Se visitó en",
+            "selected_option": "Día laborable"
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Sin espera"
+          },
+          {
+            "question": "Reserva recomendada",
+            "selected_option": "No"
+          }
+        ],
+        "review_text_published": "Really beautiful place to spend some hours!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.4608570,
+          -8.4926826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T09:53:13.809513Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe13bbcf799ce7421",
+        "location": {
+          "address": "Unnamed Road, Tri Eka Buana, Kec. Sidemen, Kabupaten Karangasem, Bali 80864, Indonesia",
+          "country_code": "ID",
+          "name": "Gembleng Waterfall"
+        },
+        "questions": [
+          {
+            "question": "Se visitó en",
+            "selected_option": "Día laborable"
+          },
+          {
+            "question": "Tiempo de espera",
+            "selected_option": "Sin espera"
+          },
+          {
+            "question": "Reserva recomendada",
+            "selected_option": "No"
+          }
+        ],
+        "review_text_published": "Stunning view, you just have to donate money"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.4805484,
+          -8.4525407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T09:51:51.313050Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x67a1beff00bb9dc7",
+        "location": {
+          "address": "Jl. Jangu, Duda, Kec. Selat, Kabupaten Karangasem, Bali 80862, Indonesia",
+          "country_code": "ID",
+          "name": "Sweet Escape"
+        },
+        "questions": [
+          {
+            "question": "Tipo de viaje",
+            "selected_option": "Vacaciones"
+          },
+          {
+            "question": "Viaje en grupo",
+            "selected_option": "Familia"
+          },
+          {
+            "question": "Habitaciones",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ubicación",
+            "rating": 3
+          },
+          {
+            "question": "Habitaciones",
+            "text_answer": "Really nice rooms"
+          },
+          {
+            "question": "Aspectos destacados del hotel",
+            "selected_options": [
+              "Buenas vistas"
+            ]
+          },
+          {
+            "question": "¿Puedes darnos más información sobre estos temas?",
+            "selected_options": [
+              "Habitaciones"
+            ]
+          }
+        ],
+        "review_text_published": "Even though it's a bit far away from Sidemen, we liked it a lot because was cheap, was stunning, just a bit noisy because of the remodeling but was really great!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.4537836,
+          -8.6637816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T09:49:37.280615Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x34eaaf75e9010099",
+        "location": {
+          "address": "Lembongan island, Jl. Jungutbatu, Jungutbatu, Kec. Nusa Penida, Kabupaten Klungkung, Bali 80771, Indonesia",
+          "name": "The Coconut Hut - Mini Golf"
+        },
+        "review_text_published": "Such good ambience and chill vibes!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.0389891,
+          -8.3387996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T09:49:20.820393Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x690de1b536950b6a",
+        "location": {
+          "address": "M26Q+FHQ, Sea, Bali 83352, Indonesia",
+          "country_code": "ID",
+          "name": "Turtle Shore"
+        },
+        "review_text_published": "Really nice full of turtles to see!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.0430295,
+          -8.3507116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-30T09:48:44.202264Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbf8c569d31462bae",
+        "location": {
+          "address": "Gili Trawangan, Jl. Ikan Hiu, Gili Indah, Pemenang, North Lombok Regency, West Nusa Tenggara 83352, Indonesia",
+          "country_code": "ID",
+          "name": "Gili Castle"
+        },
+        "questions": [
+          {
+            "question": "Tipo de viaje",
+            "selected_option": "Vacaciones"
+          },
+          {
+            "question": "Viaje en grupo",
+            "selected_option": "Familia"
+          },
+          {
+            "question": "Habitaciones",
+            "rating": 3
+          },
+          {
+            "question": "Servicio",
+            "rating": 4
+          },
+          {
+            "question": "Ubicación",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "We were staying at Gili castle 2 and we couldn't get connected to the internet in our rooms, and as it thick the walls our data couldn't reach properly either, then the rest of the things were ok!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.4407987,
+          -8.4747729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-26T05:21:18.530399Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9d0786aaca03426a",
+        "location": {
+          "address": "Banjar Tabola, Telaga Tawang, Kec. Sidemen, Kabupaten Karangasem, Bali 80864, Indonesia",
+          "country_code": "ID",
+          "name": "Asri Dining by Samanvaya"
+        },
+        "questions": [
+          {
+            "question": "Precio por persona",
+            "selected_option": "Más de 250.000 Rp"
+          },
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          },
+          {
+            "question": "Nivel de ruido",
+            "selected_option": "Bajo, pero se puede conversar fácilmente"
+          },
+          {
+            "question": "Tamaño del grupo",
+            "selected_options": [
+              "3-4 personas"
+            ]
+          },
+          {
+            "question": "Plaza de aparcamiento",
+            "selected_option": "Muchas plazas libres"
+          },
+          {
+            "question": "Opciones de aparcamiento",
+            "selected_options": [
+              "Aparcamiento gratuito"
+            ]
+          },
+          {
+            "question": "¿Puedes darnos más información sobre estos temas?",
+            "selected_options": [
+              "Aparcamiento"
+            ]
+          }
+        ],
+        "review_text_published": "The time here was divine! The food, ambience, and the service was nice, helpful and happy to tell you everything about Sidemen, Ritah was our waitress and she just made us feel cared! 🥰"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          148.7169112,
+          -20.2679031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-06T16:36:24.737560Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd4ef855603ba5696",
+        "location": {
+          "address": "263 Shute Harbour Rd, Airlie Beach QLD 4802, Australia",
+          "country_code": "AU",
+          "name": "Mama Africa Bar & Nightclub"
+        },
+        "review_text_published": "It really worth it the Latin party on Thursdays by Juampi dj! I've enjoyed so much with friends, definitely I would come back"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.5128412,
+          -23.3802664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-01-08T09:13:12.596771Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8104bf4e26b2c646",
+        "location": {
+          "address": "214 Bolsover St, Rockhampton QLD 4700, Australia",
+          "country_code": "AU",
+          "name": "Synergie Australia - Rockhampton"
+        },
+        "review_text_published": "I recently worked with Joy George from the Rockhampton IPA office by Synergie, and I couldn't be happier with the experience. Joy was professional, approachable, and honest about the expectations of the work in the mines. It was provided a clear guidance throughout the process and went above and beyond to ensure a smooth experience.\n\nI highly recommend Joy and the team for anyone seeking reliable and supportive recruitment services in Rockhampton."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.0079110,
+          -27.4621125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-11T04:19:14.445482Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3107ac7ed3398341",
+        "location": {
+          "address": "167 Given Ter, Paddington QLD 4064, Australia",
+          "country_code": "AU",
+          "name": "Paddington Social"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Really nice place to stop by and have a drink with the amazing patisserie, try the mandarine tart!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.8385174,
+          22.3326387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-11T04:18:29.181445Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xea662cf63cf6710b",
+        "location": {
+          "address": "67 Fansipan, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+          "country_code": "VN",
+          "name": "Fansipan Terrace Cafe & Foods"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Lovely coconut coffe but the weather that day was foggy!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.8398823,
+          22.3400311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-11T04:18:01.169575Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x199e73249ab3909d",
+        "location": {
+          "address": "762 Đường Điện Biên Phủ, TT. Sa Pa, Sa Pa, Lào Cai, Vietnam",
+          "country_code": "VN",
+          "name": "Lustig Hostel"
+        },
+        "questions": [
+          {
+            "question": "Habitaciones",
+            "rating": 4
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ubicación",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Lovely hostel and really comfy even though that the mattress are a bit tough"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.2444781,
+          23.0674818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-11T04:17:34.061364Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb996258f18f12c5c",
+        "location": {
+          "address": "369V+4VG, Mậu Duệ, Tuyên Quang, Vietnam",
+          "country_code": "VN",
+          "name": "Diep Nhung"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Really nice place to have banquet while you doing the ha Giang loop"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8449512,
+          21.0317707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-11T04:17:01.959185Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfc9f2bd6ea81bb5",
+        "location": {
+          "address": "Phố đường tàu/28 P. Trần Phú, Hoàn Kiếm, Hà Nội, Vietnam",
+          "country_code": "VN",
+          "name": "28 Train Street - Cafe & Bistro"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "The owner is so lovely she took care of us so much, and her vibes even though she couldn't speak properly english was amazing! We highly recommend this coffee shop!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.9646987,
+          10.2022801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-09T21:09:14.973625Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x79feefbcb0bffef7",
+        "location": {
+          "address": "107 Đường Trần Hưng Đạo, Street, Phú Quốc, An Giang 925000, Vietnam",
+          "country_code": "VN",
+          "name": "Maharaja Lounge - Authentic Indian 100% Veg Restaurant"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "We arrive and we didn't know that was vegetarian but either way that was amazing food we loved it!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.9639088,
+          10.2006591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-09T21:08:22.083168Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9dfd3efa1f48eef4",
+        "location": {
+          "address": "100C/2 Đường Trần Hưng Đạo, TT. Dương Đông, Phú Quốc, An Giang 92500, Vietnam",
+          "country_code": "VN",
+          "name": "AVS HOTEL PHU QUOC"
+        },
+        "questions": [
+          {
+            "question": "Habitaciones",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ubicación",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Lovely crew, we really enjoy our stayed there and thank you so much for the hosts at the reception and the ones from breakfast that were always helpful and lovely"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.0339693,
+          -27.4590349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-09T21:07:27.656636Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa94be160bc442382",
+        "location": {
+          "address": "Level 1/624 Ann St, Fortitude Valley QLD 4006, Australia",
+          "country_code": "AU",
+          "name": "Golden Palace Chinese Restaurant 金皇宮Chinatown Brisbane"
+        },
+        "review_text_published": "The experience with the food was just ok"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6964430,
+          10.7675360
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-09T21:06:32.765438Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x48c881c77e38f6e8",
+        "location": {
+          "address": "28 Đ. Trịnh Văn Cấn, Bến Thành, Hồ Chí Minh 700000, Vietnam",
+          "country_code": "VN",
+          "name": "HAPPYHOMES 28 Sai Gon Central Hotel"
+        },
+        "review_text_published": "Revenge though that it's really narrow the entrance the apartment was really lovely and amazing views at night"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8523400,
+          21.0346210
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-09T21:05:28.751206Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x18dc10a721595cba",
+        "location": {
+          "address": "41-36 P. Lương Ngọc Quyến, Hàng Buồm, Hoàn Kiếm, Hà Nội, Vietnam",
+          "country_code": "VN",
+          "name": "Ta Hien Beer Street"
+        },
+        "review_text_published": "Really busy place to visit during the night and have drinks and enjoy the atmosphere"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.8499005,
+          22.3398604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-09T21:04:50.614532Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x77ad0afde2b74c2",
+        "location": {
+          "address": "Sapa Town, 03 Suối Hồ, TT. Sa Pa, Sa Pa, Lào Cai 330000, Vietnam",
+          "country_code": "VN",
+          "name": "Le Gecko Restaurant"
+        },
+        "review_text_published": "Nice dishes and good experience"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.0080470,
+          -27.4766785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-09T21:04:19.736388Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7c224ee1c3ec5eda",
+        "location": {
+          "address": "215 Montague Rd, West End QLD 4101, Australia",
+          "country_code": "AU",
+          "name": "Superthing"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          }
+        ],
+        "review_text_published": "We love this place and had really good vibes, and you can also see how they do their products"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.0481338,
+          -27.4654298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-09T21:00:16.811180Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x619cc32c04a485d2",
+        "location": {
+          "address": "2/121 Merthyr Rd, New Farm QLD 4005, Australia",
+          "country_code": "AU",
+          "name": "Fonzie Abbott New Farm"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Lovely place to always have a coffee!!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.0060548,
+          10.0276968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-09T20:59:18.205065Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xeb66168bcba036bf",
+        "location": {
+          "address": "Sunset Town, Bãi Đất Đỏ, phường, Phú Quốc, An Giang, Vietnam",
+          "country_code": "VN",
+          "name": "Kiss of the Sea show - Nụ hôn của Biển Cả"
+        },
+        "review_text_published": "We didn't understand really good the story and also one of the acrobat suffer an injury that cut the show, good fireworks"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.9686350,
+          10.1974560
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-09T20:58:18.545340Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5b767e33eecf9e90",
+        "location": {
+          "address": "129 Đường Trần Hưng Đạo, TT. Dương Đông, Phú Quốc, An Giang, Vietnam",
+          "country_code": "VN",
+          "name": "The Home Pizza Tran Hung Dao"
+        },
+        "review_text_published": "Good if you want to escape for a bit with the food, good Italian cuisine, recommended the pizzas slices with cheese and honey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.9596825,
+          10.2114521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-09T20:57:29.380136Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x287d8b0911365062",
+        "location": {
+          "address": "70b Đường Trần Hưng Đạo, TT. Dương Đông, Phú Quốc, An Giang, Vietnam",
+          "country_code": "VN",
+          "name": "Nhà hàng hải sản Thuận Tài"
+        },
+        "review_text_published": "Really nice place to enjoy a lot of seafood"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.0129952,
+          -27.4655776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-08T14:46:04.049606Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x965b8ae133a22522",
+        "location": {
+          "address": "Shop 3/61 Petrie Terrace, Brisbane City QLD 4000, Australia",
+          "country_code": "AU",
+          "name": "Pilgrim Brisbane"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "It always nice to come back to this place that make you feel that you are for a bit in Latin America I really recommend it!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6684984,
+          10.7728472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-01-31T14:13:21.602220Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x442b302ca2c81ff1",
+        "location": {
+          "address": "449/11 Sư Vạn Hạnh, Phường 12, Hòa Hưng, Hồ Chí Minh 100000, Vietnam",
+          "country_code": "VN",
+          "name": "A Priori Coffee House"
+        },
+        "questions": [
+          {
+            "question": "Tipo de pedido",
+            "selected_option": "Comí allí"
+          },
+          {
+            "question": "Tipo de comida",
+            "selected_option": "Otro"
+          },
+          {
+            "question": "Precio por persona",
+            "selected_option": "1-100.000 ₫"
+          },
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Hola! Para todos los latinos que se pasen por Ho Chi Minh no pueden no pasar por a priori, muy ricos café y con un ambiente muy chill! Y gracias a Thomas que fue muy amable con nosotros ❤️😊"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -64.1849620,
+          -31.4236768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-14T22:37:12.901468Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbcacd4f7d57122f1",
+        "location": {
+          "address": "San Lorenzo 163, X5000 Córdoba, Argentina",
+          "country_code": "AR",
+          "name": "Socialtel Nueva Córdoba"
+        },
+        "questions": [
+          {
+            "question": "Tipo de viaje",
+            "selected_option": "Vacaciones"
+          },
+          {
+            "question": "Habitaciones",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ubicación",
+            "rating": 5
+          },
+          {
+            "question": "Habitaciones",
+            "text_answer": "Clean and neat"
+          },
+          {
+            "question": "Aspectos destacados del hotel",
+            "selected_options": [
+              "Buen precio"
+            ]
+          },
+          {
+            "question": "¿Puedes darnos más información sobre estos temas?",
+            "selected_options": [
+              "Habitaciones"
+            ]
+          }
+        ],
+        "review_text_published": "Since the first time we arrived we felt welcome by the staff as any other Selina!. They were really helpful and lovely, they make you feel in home! I recommend this hostel for backpackers to make friends and to start a wonderful journey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          146.8264367,
+          -19.2506965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-11-05T10:37:34.998101Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa11041b0bd20522",
+        "location": {
+          "address": "The Ville Resort-Casino, 67 Sir Leslie Thiess Dr, Townsville City QLD 4810, Australia",
+          "country_code": "AU",
+          "name": "Quarterdeck"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Really nice place to spend the afternoon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          146.8143667,
+          -19.2521274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-11-05T10:36:42.061143Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe322cbc880a6e655",
+        "location": {
+          "address": "Shopping Village Cnr Eyre &, Shop 15 Gregory St, North Ward QLD 4810, Australia",
+          "country_code": "AU",
+          "name": "Domino's Pizza North WArd"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "We love Domino's and it's crew!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          146.8219146,
+          -19.2569255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-11-05T10:36:09.152290Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbca9a49751d02e3c",
+        "location": {
+          "address": "87/95 Flinders St, Townsville City QLD 4810, Australia",
+          "country_code": "AU",
+          "name": "Molly Malone's Irish Pub"
+        },
+        "questions": [
+          {
+            "question": "Servicio",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "We love this place we end up going with friends all the weekends, affordable prices"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          146.8203404,
+          -19.2573065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-11-05T10:35:29.526363Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc347e7128b597317",
+        "location": {
+          "address": "1/151 Flinders St, Townsville City QLD 4810, Australia",
+          "country_code": "AU",
+          "name": "Heritage Exchange"
+        },
+        "review_text_published": "I really liked this cocktail bar, the sits next to the wall pretty comfy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          146.8108013,
+          -19.2462770
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-09-02T10:27:21.224164Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf00eef26261e4d0",
+        "location": {
+          "address": "37-43 The Strand, North Ward QLD 4810, Australia",
+          "country_code": "AU",
+          "name": "Strand Park"
+        },
+        "review_text_published": "Really nice walk to enjoy a sunny day"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.2018329,
+          -33.8686551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-08-18T10:25:11.733894Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2f517439214a7f2b",
+        "location": {
+          "address": "King Street Wharf Darling Harbour, Darling Harbour, 52-60 The Promenade, Sydney NSW 2000, Australia",
+          "country_code": "AU",
+          "name": "Cargo Bar"
+        },
+        "review_text_published": "The service and the Hamburger was ok, it just was empty cuz it was Monday, I'm more than willing to come again and try it on weekends"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.2052551,
+          -33.8792200
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-22T08:15:17.003758Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfc0789472aba56c8",
+        "location": {
+          "address": "Suite 201, Level 2/661 George St, Haymarket NSW 2000, Australia",
+          "name": "Sydney CBD Repair Centre"
+        },
+        "review_text_published": "Really good service! I recommend it 100%"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4041166,
+          -34.5934374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-07-01T23:14:50.696648Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xec7a52aff1334fd1",
+        "location": {
+          "address": "avenida santa fe 2653 Local 35 Planta Baja, 1425 Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Picasso Joyería"
+        },
+        "review_text_published": "La verdad que compre acá un dige que quería hace un montón y cuando lo recibí era más de lo que yo esperaba 😍, estoy muy contento con la atención y con la buena onda que tiene su atención al cliente! 100% recomendado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3079695,
+          -24.1863722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-21T03:31:04.903060Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x80ebb2413b6c4c67",
+        "location": {
+          "address": "Av. Senador Pérez 235, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Garrison Resto Bar"
+        },
+        "review_text_published": "Rico solo que mi hamburguesa vino con un trozo de grasa grande"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3134337,
+          -24.1861387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-07-13T01:25:50.636600Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf8e1fca3d4347a8a",
+        "location": {
+          "address": "Cnel. Arias 305, Y4600EUG San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "El Turco Sandwich's Nieva"
+        },
+        "review_text_published": "5 estrellas desde que cambiaron las papas, ahora son ricas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.9779050,
+          -26.0726850
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-23T16:49:53.217885Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb0df0b6455365666",
+        "location": {
+          "address": "Calchaquí 62, A4427 Cafayate, Salta, Argentina",
+          "country_code": "AR",
+          "name": "Hotel Los Sauces Cafayate"
+        },
+        "review_text_published": "Me encantó el hotel."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3032230,
+          -24.1854740
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-23T16:49:32.827884Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5d684028a09dd2d4",
+        "location": {
+          "address": "General Belgrano 730 1er. Piso Local 5, Gral. Belgrano 730 1er. Piso Local 5, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "El Alto"
+        },
+        "review_text_published": "Me gustó como lo remodelaron y el servicio fue muy bueno"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.4084659,
+          -24.7905350
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-23T16:48:55.938784Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb06850558f7c4f4a",
+        "location": {
+          "address": "Córdoba 46, A4400 Salta, Argentina",
+          "country_code": "AR",
+          "name": "Doña Salta"
+        },
+        "review_text_published": "Si bien tuvimos que esperar para ser atendidos, valió la pena, 100% recomendable ir a comer ahí. Riquísimo todo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3003982,
+          -24.1857463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-23T16:48:01.247880Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x54862d22cd1c5c59",
+        "location": {
+          "address": "Sarmiento 268, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "WELT Brauerei"
+        },
+        "review_text_published": "No tenia maní para la cerveza, ni Hamburguesas :("
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3985880,
+          52.5266445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-13T21:18:13.732376Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x904be3209272b837",
+        "location": {
+          "address": "Große Hamburger Str. 38, 10115 Berlin, Alemania",
+          "country_code": "DE",
+          "name": "beets&roots | Große Hamburger Straße"
+        },
+        "review_text_published": "It was excelent, the best rice i ever ate, OMG, excelent , damm it was so fucking amazing and delicious, my congratulations to the chef."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3028416,
+          -24.1834448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:17:25.319251Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8708d7f84a07a5c",
+        "location": {
+          "address": "EAI San Salvador de Jujuy Jujuy AR, Gral. Lavalle 455, Y4600, Argentina",
+          "country_code": "AR",
+          "name": "Heladería Pingüino Garden"
+        },
+        "review_text_published": "Recomendado el helado de frutilla de crema"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2985146,
+          -24.1731178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:17:04.242213Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd6808a2fcdad9432",
+        "location": {
+          "address": "El Manzano 672, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Corralon Lucas - Servitec"
+        },
+        "review_text_published": "Una comodidad que este abierto incluso domingos por la mañana"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3039679,
+          -24.1818705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:16:33.916103Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc5e1ebfd882cf46",
+        "location": {
+          "address": "Av. Gdor. José María Fascio 770, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Fede Alvarez tattoo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3064804,
+          -24.1899419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:16:17.273209Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x813c20ad2a2c1c39",
+        "location": {
+          "address": "Parque Lineal, Puente Lamadrid, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Anfiteatro Las Lavanderas"
+        },
+        "review_text_published": "Siempre hay eventos"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3074682,
+          -24.1884255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:16:01.980581Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8d033985b070dcc",
+        "location": {
+          "address": "Independencia 1072, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Tattoo"
+        },
+        "review_text_published": "Aquí hice mi primer tatuaje y salió de diez"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2979230,
+          -24.1728825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:15:14.838845Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2b5a89200e30fcf0",
+        "location": {
+          "address": "El Alheli 693, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Verduleria SERGIO"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3111328,
+          -24.1823523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:14:46.537328Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9fb15c9da6ec443e",
+        "location": {
+          "address": "Salta 1292, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Toba SRL"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3330317,
+          -24.1782698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:13:58.002785Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd1462e8cb64190e7",
+        "location": {
+          "address": "Cabrera, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Tecnicar Rtv Jujuy"
+        },
+        "review_text_published": "Poca gente y rápido el servicio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2884911,
+          -24.2106779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:13:31.465124Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x64f780668130e176",
+        "location": {
+          "address": "Riobamba, RN9 y, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "ChangoMâs"
+        },
+        "review_text_published": "Mi super preferido"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3277596,
+          -24.1670868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:12:37.392341Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xde258eeea354632c",
+        "location": {
+          "address": "Av. Dr. Arturo Illia 809, Y4600 San Salvador, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Chevere Venezuela"
+        },
+        "review_text_published": "Una salida diferente en Jujuy. 100% recomendado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3058200,
+          -24.1881995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:12:08.666499Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6b7046362f92a8f7",
+        "location": {
+          "address": "San Salvador de Jujuy Jujuy AR, Independencia 946, Y4600 AFT, Argentina",
+          "country_code": "AR",
+          "name": "Django Resto - Bar"
+        },
+        "review_text_published": "Las papas son muy artificiales."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3039448,
+          -24.1842800
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:11:44.814476Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6148cf4f6b019051",
+        "location": {
+          "address": "Gral. Alvear 784, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Caronté Bar"
+        },
+        "review_text_published": "Siempre nos atienden de 10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3002515,
+          -24.1861758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:10:37.632209Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe32b4b947b112cd3",
+        "location": {
+          "address": "Sarmiento 210, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "name": "Negus Plaza"
+        },
+        "review_text_published": "Recomiendo probar las cosas dulces"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:10:20.651210Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3632d7e2fecfa9d9",
+        "review_text_published": "Me cambie a tuenti bai.",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3003930,
+          -24.1885620
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:09:58.902281Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xeaa6bf2b5d05f378",
+        "location": {
+          "address": "Av. 19 de Abril 537, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Neumáticos Jujuy S.A."
+        },
+        "review_text_published": "Muy amable los empleados y el dueño"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2887899,
+          -24.1958889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:09:14.257747Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8af86c873fddeed8",
+        "location": {
+          "address": "Av. Almte. Brown 587, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Sandwichería Luisiño"
+        },
+        "review_text_published": "Rico y barato"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2988854,
+          -24.1835623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-09T05:08:47.742562Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9b87ba9322587af1",
+        "location": {
+          "address": "Gral. Justo José de Urquiza 410, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Estacion De Ferrocarril"
+        },
+        "review_text_published": "Un lugar como para visitar desde afuera"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-15T07:22:30.469037Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9df407416a1b15c4",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.3734660,
+          -34.5954350
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-18T22:06:51.597359Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xcc6eca97e3b67485",
+        "location": {
+          "address": "ABV, Reconquista 1056, C1003 Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Cerveza Patagonia - Refugio Reconquista"
+        },
+        "review_text_published": "😍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3213526,
+          -24.1817074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-02-23T05:42:36.790573Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x606c2b4701127b7d",
+        "location": {
+          "address": "Azorin 140, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Meta Arte"
+        },
+        "review_text_published": "Excelente multiespacio para aprender y conocer gente copada!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3308848,
+          -24.1786998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-02-15T04:08:25.656627Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6a1b120dbc094717",
+        "location": {
+          "address": "Av. Bolivia 1501, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Topado"
+        },
+        "review_text_published": "Bien solo que a cierto punto es un horno adentro"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-02-15T04:08:03.566581Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xcdd5970785c773c5",
+        "review_text_published": "Comida abundante y rica 👌",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3040780,
+          -24.1846320
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-01-18T16:08:18.557283Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa47800e6d193e45",
+        "location": {
+          "address": "Gral. Necochea 367, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Librería San Pablo"
+        },
+        "review_text_published": "Siempre tiene de todo menos hoy que no tenía contact de madera oscura pero generalmente bien"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3203612,
+          -24.1872126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-01-18T00:30:58.925263Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbf97829131cf44c4",
+        "location": {
+          "address": "Avenida Dr. Joaquín Carrillo Y Dr. Vidal, Av. Dr. Joaquín Carrillo 386, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Vea"
+        },
+        "review_text_published": "Un toquesin caro"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-01T04:06:09.122267Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb612968291659e52",
+        "review_text_published": "Enamorado de les calanques",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0347812,
+          47.5021827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-01T04:05:46.161603Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2f263ca844235e46",
+        "location": {
+          "address": "Budapest, 1014 Hungría",
+          "country_code": "HU",
+          "name": "bastion de los pescadores"
+        },
+        "review_text_published": "Hungary 😍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0633459,
+          47.4969648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-01T04:05:29.446012Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x267742d3fb311da4",
+        "location": {
+          "address": "Budapest, Kazinczy u. 14, 1075 Hungría",
+          "country_code": "HU",
+          "name": "Szimpla Kert RUIN BAR"
+        },
+        "review_text_published": "I had a really strong hangover after going that pub, I loved it"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.0245867,
+          37.6502055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-01T04:04:49.893803Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3d510006fedd3a04",
+        "location": {
+          "address": "Sounion 195 00, Grecia",
+          "name": "Temple of Poseidon"
+        },
+        "review_text_published": "One of the best sunsets in my life"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3477633,
+          -23.2028042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-01T04:02:44.972389Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1599a6730ed3e767",
+        "location": {
+          "address": "Salta 38, Y4630 Humahuaca, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Giramundo Hostel Humahuaca"
+        },
+        "review_text_published": "Buen hostel tranquilo con buena vista al indio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3032870,
+          -24.1840031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-01T04:02:23.593998Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb202f0d4b270c113",
+        "location": {
+          "address": "Gral. Alvear 731, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Café Dos Chinos"
+        },
+        "review_text_published": "Lugar renovado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3010007,
+          -24.1850806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-01T04:02:06.632526Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6de3783cdf249cc7",
+        "location": {
+          "address": "Gral. Belgrano 563 Y4600ABI, Y4600ABI San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Annuar Shopping"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2994762,
+          -24.1858241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-01T04:01:57.590881Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x552c0eaeb6432a0",
+        "location": {
+          "address": "Gral. Belgrano, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Plaza Belgrano"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3016464,
+          -24.1904821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-01T04:01:50.961966Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x72bcb92073695200",
+        "location": {
+          "address": "Jorge Newbery 934, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Rey Lúpulo"
+        },
+        "review_text_published": "Buen lugar para compartir una cerveza entre amigos y las Hamburguesas son de 10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.9383243,
+          50.9334441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:50:38.115Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbe2ac17b6ae0de",
+        "location": {
+          "address": "Engelbertstraße 33-35, 50674 Köln, Alemania",
+          "country_code": "DE",
+          "name": "SMARTY Hotel | Hostel | Boardinghouse"
+        },
+        "review_text_published": "Nice hostel but it was a pitty thing that in the share rooms werent air conditioner"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3538834,
+          50.8485002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:49:31.906Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x26e1f42d7ed8d292",
+        "location": {
+          "address": "Imp. de la Fidélité 4, 1000 Bruxelles, Bélgica",
+          "country_code": "BE",
+          "name": "Delirium Café"
+        },
+        "review_text_published": "Only you are going to feel good vibes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3515442,
+          50.8418960
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:49:13.703Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x563fba3aaadf34fd",
+        "location": {
+          "address": "Rue du Saint-Esprit 2, 1000 Bruxelles, Bélgica",
+          "country_code": "BE",
+          "name": "Auberge de jeunesse Bruegel"
+        },
+        "review_text_published": "Para la epoca que fui había un solo baño compartido habilitado para dos pisos, luego el hostel es buena opcion para ir"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8663979,
+          41.1279010
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:46:41.671Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd7dccf940ba920c2",
+        "location": {
+          "address": "Piazza Federico II di Svevia, 70122 Bari BA, Italia",
+          "country_code": "IT",
+          "name": "Castello Svevo di Bari"
+        },
+        "review_text_published": "Buen lugar para ir a dormir la siesta al csotado del castillo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2485831,
+          40.8358256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:46:18.226Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8ad9122a45803c14",
+        "location": {
+          "address": "80132 Naples, Metropolitan City of Naples, Italia",
+          "name": "Plaza del Plebiscito"
+        },
+        "review_text_published": "Buen lugar para sacar portarretratos contrapicados"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9496754,
+          52.3127645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:45:53.121Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbe079f48391d6072",
+        "location": {
+          "address": "Bijlmerplein 1008, 1102 ML Amsterdam, Países Bajos",
+          "country_code": "NL",
+          "name": "Eazie Amsterdam Bijlmerplein"
+        },
+        "review_text_published": "Buen lugar para comer woks!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:45:01.569Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc64982891fd68ebf",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2577910,
+          40.8512300
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:44:39.761Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8ef1a04596548b23",
+        "location": {
+          "address": "Via dei Tribunali, 89, 80138 Napoli NA, Italia",
+          "country_code": "IT",
+          "name": "Pizzeria Donna Sofia Ai Tribunali | Napoli"
+        },
+        "review_text_published": "Lindo lugar, lastima que ese dia perdia croacia contra francia"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:44:18.353Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf12af43f2c284d2f",
+        "review_text_published": "Where the really dreams come true, Live today, love tomorrow, unite forever",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.4213914,
+          51.2191354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:43:17.099Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc5d5815b317f896e",
+        "location": {
+          "address": "Koningin Astridplein 7B, 2018 Antwerpen, Bélgica",
+          "country_code": "BE",
+          "name": "Radisson Blu Hotel, Antwerp City Centre"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.4251336,
+          51.2095840
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:43:10.155Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x71c39e6a91808783",
+        "location": {
+          "address": "Provinciestraat 256, 2018 Antwerpen, Bélgica",
+          "country_code": "BE",
+          "name": "Alias Youth Hostel"
+        },
+        "review_text_published": "Muy buen hostel para ir, y nos atendio una Mexicana muy buena onda!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4922309,
+          41.8902102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:42:38.063Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x28f1c82e908503c4",
+        "location": {
+          "address": "P.za del Colosseo, 1, 00184 Roma RM, Italia",
+          "country_code": "IT",
+          "name": "Coliseo de Roma"
+        },
+        "review_text_published": "Nice place to go, but not in summer bweteen the hours 12-16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4833130,
+          41.9009325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:42:01.310Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf676f1e1cc02bbb6",
+        "location": {
+          "address": "Piazza di Trevi, 00187 Roma RM, Italia",
+          "name": "Fontana di Trevi"
+        },
+        "review_text_published": "i saw it like 5 meters away because it was full of people."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3055130,
+          -24.1867993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:41:22.147Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5c08832edc27163d",
+        "location": {
+          "address": "Y4600ADT, Gral. San Martín 902, Y4600ADT San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Xibi - Xibi Comidas para llevar"
+        },
+        "review_text_published": "La comida de este local nunca te falla, riquisima siempre"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.5045377,
+          41.9049070
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:40:50.103Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb841297bb18a53bb",
+        "location": {
+          "address": "Via Palestro, 40, 00185 Roma RM, Italia",
+          "country_code": "IT",
+          "name": "Yellow Bar"
+        },
+        "review_text_published": "Simplemente increible, y una opcion barata para salir en Roma"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.8563395,
+          47.6311025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:40:28.204Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6c5b5f8815871245",
+        "location": {
+          "address": "70 Fbg de Montbéliard, 90000 Belfort, Francia",
+          "country_code": "FR",
+          "name": "Efes Resto kebab"
+        },
+        "review_text_published": "Efes c'est le mellieur lieu pour aller manger avec des amis"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.5235709,
+          47.4613997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:39:55.064Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf4a7cd75fd9ec036",
+        "location": {
+          "address": "Riedmattstrasse 10, 8153 Rümlang, Suiza",
+          "country_code": "CH",
+          "name": "Burger King Rümlang"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4536413,
+          41.9064878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:39:38.574Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xcfe0eca0526416b6",
+        "location": {
+          "address": "00120 Cdad. del Vaticano, Ciudad del Vaticano",
+          "country_code": "VA",
+          "name": "Museo Vaticano"
+        },
+        "review_text_published": "Recomendable ver la parte del museo de los dioses romanos/egipcios/griegos"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4567302,
+          41.9022309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:37:37.125Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xefc0d618affc9ec5",
+        "location": {
+          "address": "Piazza San Pietro, 00120 Città del Vaticano, Ciudad del Vaticano",
+          "name": "Plaza de San Pedro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4350101,
+          43.5074319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:37:30.540Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4dfb5177f9f838d2",
+        "location": {
+          "address": "Trumbićeva obala 3, 21000, Split, Croacia",
+          "country_code": "HR",
+          "name": "Matejuška"
+        },
+        "review_text_published": "Nice but there is a horrible smell"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:37:04.618Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2fe4202f85a9bcfe",
+        "review_text_published": "it was really nice, and cheap, and the waiters were really kind",
+        "Comment": "No hay información de ubicación disponible para esta reseña."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4401754,
+          43.5082646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:36:23.865Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x921ac62569576f32",
+        "location": {
+          "address": "21000, Grad, Split, Croacia",
+          "country_code": "HR",
+          "name": "Palacio de Diocleciano"
+        },
+        "review_text_published": "Lovely place where at night you can see some people acting or playing instruments"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3599282,
+          50.8372668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:35:39.325Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x857cfda58e55c90c",
+        "location": {
+          "address": "Av. de la Toison d'Or 17, 1050 Bruxelles, Bélgica",
+          "country_code": "BE",
+          "name": "FNAC Bruxelles - Toison d’Or"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3524356,
+          50.8467887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:35:22.130Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb03c355d8fe2cfb6",
+        "location": {
+          "address": "Grote Markt, 1000 Brussel, Bélgica",
+          "name": "Grand Place"
+        },
+        "review_text_published": "Place where you feel like a in a typical town not a big capital at it is bruxelles"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3492909,
+          50.8486551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:34:39.465Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6eacef37adbec8db",
+        "location": {
+          "address": "Pl. de la Bourse 3, 1000 Bruxelles, Bélgica",
+          "country_code": "BE",
+          "name": "McDonald's"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8839765,
+          52.3752182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:34:24.362Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd49a5d653e635b0a",
+        "location": {
+          "address": "Westermarkt 20, 1016 GV Amsterdam, Países Bajos",
+          "country_code": "NL",
+          "name": "Casa de Anne Frank"
+        },
+        "review_text_published": "Nice, but pay atention to get the tickets online"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8927825,
+          52.3739461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:34:01.787Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4315115cb9076199",
+        "location": {
+          "address": "Nieuwendijk 212, 1012 NN Amsterdam, Países Bajos",
+          "country_code": "NL",
+          "name": "McDonald's"
+        },
+        "review_text_published": "Nice but really crowed"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2995211,
+          -24.1877767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:33:42.061Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x660dd2605945518c",
+        "location": {
+          "address": "Independencia 466, Y4600AFJ San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "PEPIRA Cafe & restó"
+        },
+        "review_text_published": "Recomendable lugar con cervezas tiradas y de exportacion"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3803383,
+          48.8400178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:33:18.966Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xeb416c954a94b55e",
+        "location": {
+          "address": "6 Rue de Chambertin, 75012 Paris, Francia",
+          "country_code": "FR",
+          "name": "THE TOBACCO BERCY"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3187839,
+          -24.1691115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-14T00:32:26.591Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x95b85e05e659ab4",
+        "location": {
+          "address": "Av. Dr. Arturo Illia 426, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Bogotá"
+        },
+        "review_text_published": "Lindo lugar para pasar un finde por la noche"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.7299126,
+          37.9934574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-07-08T21:42:26.704Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf413ad7ac09e67d",
+        "location": {
+          "address": "Pl. Viktorias 4, Athina 104 34, Grecia",
+          "country_code": "GR",
+          "name": "Goody's Burger House"
+        },
+        "review_text_published": "La comida excelente,  prueben los platos con pescado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0506096,
+          47.5039749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-07-06T14:22:01.539Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4ffd46a712e22e81",
+        "location": {
+          "address": "Budapest, Szabadság tér, 1054 Hungría",
+          "country_code": "HU",
+          "name": "Plaza de la Libertad"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4166059,
+          50.0882490
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-04-21T13:39:48.445Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6055d34d862e6582",
+        "location": {
+          "address": "Valentinská 52, 110 00 Staré Město, Chequia",
+          "country_code": "CZ",
+          "name": "U Parlamentu"
+        },
+        "review_text_published": "La comida excelente, el precio económico recomiendo probar el cerdo para compartir entre dos, riquísimo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3608168,
+          48.1968948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-04-17T06:43:13.806Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x76a08930b45863d5",
+        "location": {
+          "address": "Rechte Wienzeile 35, 1040 Wien, Austria",
+          "country_code": "AT",
+          "name": "Wombat's City Hostel Vienna Naschmarkt"
+        },
+        "review_text_published": "Muy bien localizado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1123815,
+          48.1483824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-04-17T06:42:56.241Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1261e75938998ecc",
+        "location": {
+          "address": "Obchodná 62, 811 06 Bratislava, Eslovaquia",
+          "country_code": "SK",
+          "name": "Slovak Pub"
+        },
+        "review_text_published": "Recomiendo tomar aquí dark beer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1002348,
+          48.1421086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-04-17T06:42:40.355Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2fd320efbc06a139",
+        "location": {
+          "address": "Hrad, 811 06 Bratislava, Eslovaquia",
+          "country_code": "SK",
+          "name": "Bratislavský Hrad"
+        },
+        "review_text_published": "Muy lindo y tranquilo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.6783984,
+          50.1150892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-04-09T04:58:39.757Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x239fc78797f88722",
+        "location": {
+          "address": "Schillerstraße 11, 60313 Frankfurt am Main, Alemania",
+          "country_code": "DE",
+          "name": "Bull & Bear Restaurant & Sportsbar"
+        },
+        "review_text_published": "You pay what you eat, excellent"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.6819641,
+          50.1005298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-04-09T04:58:17.397Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfaee38d0988055ff",
+        "location": {
+          "address": "Schweizer Str. 71, 60594 Frankfurt am Main, Alemania",
+          "country_code": "DE",
+          "name": "Adolf Wagner"
+        },
+        "review_text_published": "Really nice to eat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.1759367,
+          41.3806085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-02-13T20:51:59.411Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x33e27b9799e3f1a7",
+        "location": {
+          "address": "Carrer dels Escudellers Blancs, 3, Ciutat Vella, 08002 Barcelona, España",
+          "country_code": "ES",
+          "name": "Nevermind"
+        },
+        "review_text_published": "Un bar excelente con buenas ofertas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.8302371,
+          40.9878399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-30T15:02:00.662Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x494e3e5fcbe852d9",
+        "location": {
+          "address": "Yeşilköy, Atatürk Havalimanı Yolu No:15-17-19, 34149 Bakırköy/İstanbul, Turquía",
+          "country_code": "TR",
+          "name": "WOW İstanbul Hotel"
+        },
+        "review_text_published": "Ideal hotel, muy bueno!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.8745911,
+          47.6391645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-30T15:01:34.119Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc3ff2a946f6945f4",
+        "location": {
+          "address": "23 Av. Capt de la Laurencie, 90000 Belfort, Francia",
+          "country_code": "FR",
+          "name": "ibis budget Belfort Centre"
+        },
+        "review_text_published": "Muy mala atención."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.3739775,
+          -34.6022470
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-29T15:39:54.599Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe4597041c13cfa42",
+        "location": {
+          "address": "San Martín 498, C1004AAJ Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Bodegón La Pipeta"
+        },
+        "review_text_published": "La atención fue pésima y mal cobrado"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.3796436,
+          -34.6020152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-29T15:39:15.918Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa308569563c60699",
+        "location": {
+          "address": "Suipacha 536, C1008 Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Alma de Buenos Aires"
+        },
+        "review_text_published": "Atención muy cálida"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.3649744,
+          -34.6206635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-29T15:38:47.716Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfcb6b282f4adbd28",
+        "location": {
+          "address": "Av. Alicia Moreau de Justo 1890, C1184 Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "La Bistecca"
+        },
+        "review_text_published": "A buen precio con una variedad importante de comida"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.3859460,
+          -34.6100343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-26T14:49:42.690Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x88560f2b0a2f0e58",
+        "location": {
+          "address": "Av. Hipólito Yrigoyen 1390, C1086 Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Chan Chan"
+        },
+        "review_text_published": "Se come excelente, muy buena recomendación, para ir a desgutar algo diferente, además de buen servicio y atención"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.3841378,
+          -34.5958670
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-24T17:04:34.292Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x242674afb304272a",
+        "location": {
+          "address": "Av. Sta. Fe 1200, C1059ABS Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Biblos Restó & Coffee"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3187766,
+          -24.1851845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-24T17:03:01.189Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2cd247d59e4d9192",
+        "location": {
+          "address": "Av. Dr. Joaquín Carrillo 583 Locales A-B, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Bonafide"
+        },
+        "review_text_published": "Muy buena ubicación en un barrio tranquilo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2111778,
+          -26.8243249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:58:28.375Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9eaf4a860d52daf",
+        "location": {
+          "address": "T4000ITH ITH San Miguel de Tucumán Tucumán AR, Catamarca 380, T4000, Argentina",
+          "country_code": "AR",
+          "name": "Bar Irlanda"
+        },
+        "review_text_published": "Recomendable ir entre amigos y escuchar música, prueben las papas gratinadas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2062470,
+          -26.8238556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:57:39.757Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x38a8654f25d38086",
+        "location": {
+          "address": "Maipú 490, T4000 San Miguel de Tucumán, Tucumán, Argentina",
+          "country_code": "AR",
+          "name": "A la Gurda hostel"
+        },
+        "review_text_published": "Hostel cómodo, limpio y empleados amables"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3022681,
+          -24.1825901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:56:58.734Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xaa576bfd076c3159",
+        "location": {
+          "address": "Pje. Maipú 650, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "El Turco Sandwich's - centro"
+        },
+        "review_text_published": "Se puede comer un poco más tarde se lo habitual ya que la cocina no cierra a las 00:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3023692,
+          -24.1838689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:47:12.731Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x63fc6ff795d3cff4",
+        "location": {
+          "address": "Gral. Alvear 665, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Cine Teatro Municipal SELECT"
+        },
+        "review_text_published": "Ideal para contrataciones, y el anfiteatro renovado es muy lindo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3173276,
+          -24.1814545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:46:29.791Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xef1b3853ec677990",
+        "location": {
+          "address": "Av. Córdoba 1901, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Negus Parque"
+        },
+        "review_text_published": "Lindo, casual y natural"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2961456,
+          -24.1872771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:46:10.429Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x19ba4939dc9ca6b8",
+        "location": {
+          "address": "Independencia, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Los Naranjos Parrillada"
+        },
+        "review_text_published": "Excelente."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3083247,
+          -24.1855334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:46:00.329Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6acfa1f13e987954",
+        "location": {
+          "address": "Gral. Belgrano, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "La Pizzería de Tío Bigote"
+        },
+        "review_text_published": "Ricas pizzas solo que en el interior hace calor cuando hay mucha gente"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.3843544,
+          -34.5942187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:44:24.292Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdffb901d7ca14ea8",
+        "location": {
+          "address": "Libertad 1215, C1012AAY Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Hotel Impala"
+        },
+        "review_text_published": "Hotel lindo, tranquilo, sin grandes expectativas con personal muy amable"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2973351,
+          -24.1725044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:43:47.221Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfb91062e16f51f12",
+        "location": {
+          "address": "Las Vicuñas 266, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Supermercados Comodin"
+        },
+        "review_text_published": "Recomendable ir en horarios de la tarde para agilizar la compra, sino se tarda mucho en las cajas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2938412,
+          -24.1916139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:42:21.073Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5ae7d1928382717b",
+        "location": {
+          "address": "Juana Manuela Gorriti, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Plaza de Los Inmigrantes"
+        },
+        "review_text_published": "Lindo para pasar la tarde, lleno de actividades como baile y saya"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3155217,
+          -24.1826297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:41:47.992Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x83837b5f9b5c2ca2",
+        "location": {
+          "address": "Av. España, Y4600AOO San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Parque San Martín"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3165645,
+          -24.1865809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:41:42.680Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe93fff2d15325092",
+        "location": {
+          "address": "Libertad, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Plaza Hipólito Yrigoyen"
+        },
+        "review_text_published": "Lugar lindo para ir a matear"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.2997034,
+          -24.1757485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:41:13.248Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa8c0d1a60f8bc74c",
+        "location": {
+          "address": "El Pensamiento, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "El Turco Sandwich's"
+        },
+        "review_text_published": "Lugar tranquilo para estar con amigos, acompañado de sándwiches"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3085865,
+          -24.2009480
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:40:41.432Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x32b3d705014ef70e",
+        "location": {
+          "address": "Costa Rica 968, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Restaurante Ruta 9"
+        },
+        "review_text_published": "Si quiere comer comida abundante y rica, es buena opción"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.3071515,
+          -24.1886416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-18T00:39:48.747Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x82493f50dec86fd",
+        "location": {
+          "address": "Av. 19 de Abril 1045 Y4600, Y4600 San Salvador de Jujuy, Jujuy, Argentina",
+          "country_code": "AR",
+          "name": "Dulce y Melancólico"
+        },
+        "review_text_published": "La decoración es muy buena,  solo las sillas un poco incómodas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -41.8752356,
+          -22.7421251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-01-17T21:06:38.702Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfde353ec7ca77dd7",
+        "location": {
+          "address": "R. João Fernandes, 2320 - Village de Búzios, Armação dos Búzios - RJ, 28950-000, Brasil",
+          "country_code": "BR",
+          "name": "Playa João Fernandes"
+        },
+        "review_text_published": "Es un lugar muy tranquilo y vistoso"
+      },
+      "type": "Feature"
+    }
+  ]
+}
