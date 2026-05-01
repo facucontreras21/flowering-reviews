@@ -244,23 +244,20 @@ function windowResized() {
 }
 
 function screenPosition(x, y, z) {
-  const position = createVector(x, y, z);
+  let v = { x, y, z, w: 1 };
 
-  // Proyección manual usando matrices internas de p5
   const mvMatrix = this._renderer.uMVMatrix.copy();
   const projMatrix = this._renderer.uPMatrix.copy();
-
-  let v = createVector(position.x, position.y, position.z, 1);
 
   v = multiplyMatrixAndVector(mvMatrix, v);
   v = multiplyMatrixAndVector(projMatrix, v);
 
-  // Normalizar
-  v.x /= v.w;
-  v.y /= v.w;
-  v.z /= v.w;
+  if (v.w !== 0) {
+    v.x /= v.w;
+    v.y /= v.w;
+    v.z /= v.w;
+  }
 
-  // Convertir a coordenadas de pantalla
   return createVector(
     (v.x * 0.5 + 0.5) * width,
     (1 - (v.y * 0.5 + 0.5)) * height
@@ -268,31 +265,29 @@ function screenPosition(x, y, z) {
 }
 
 function multiplyMatrixAndVector(matrix, vector) {
-  const result = createVector(0, 0, 0, 0);
+  return {
+    x:
+      matrix.mat4[0] * vector.x +
+      matrix.mat4[4] * vector.y +
+      matrix.mat4[8] * vector.z +
+      matrix.mat4[12] * vector.w,
 
-  result.x =
-    matrix.mat4[0] * vector.x +
-    matrix.mat4[4] * vector.y +
-    matrix.mat4[8] * vector.z +
-    matrix.mat4[12] * vector.w;
+    y:
+      matrix.mat4[1] * vector.x +
+      matrix.mat4[5] * vector.y +
+      matrix.mat4[9] * vector.z +
+      matrix.mat4[13] * vector.w,
 
-  result.y =
-    matrix.mat4[1] * vector.x +
-    matrix.mat4[5] * vector.y +
-    matrix.mat4[9] * vector.z +
-    matrix.mat4[13] * vector.w;
+    z:
+      matrix.mat4[2] * vector.x +
+      matrix.mat4[6] * vector.y +
+      matrix.mat4[10] * vector.z +
+      matrix.mat4[14] * vector.w,
 
-  result.z =
-    matrix.mat4[2] * vector.x +
-    matrix.mat4[6] * vector.y +
-    matrix.mat4[10] * vector.z +
-    matrix.mat4[14] * vector.w;
-
-  result.w =
-    matrix.mat4[3] * vector.x +
-    matrix.mat4[7] * vector.y +
-    matrix.mat4[11] * vector.z +
-    matrix.mat4[15] * vector.w;
-
-  return result;
+    w:
+      matrix.mat4[3] * vector.x +
+      matrix.mat4[7] * vector.y +
+      matrix.mat4[11] * vector.z +
+      matrix.mat4[15] * vector.w,
+  };
 }

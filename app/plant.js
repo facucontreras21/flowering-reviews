@@ -7,7 +7,7 @@ class Plant {
     this.textLength = Number(data.text_length) || 0;
     this.flowerCount = Number(data.flower_count) || 1;
     this.lifeState = data.life_state || "lives";
-    this.heightTarget = Number(data.height) || 60;
+    this.heightTarget = Number(data.height) * 0.75 || 45;
     this.country = data.country || "Unknown";
     this.lon = Number(data.lon);
     this.lat = Number(data.lat);
@@ -102,26 +102,38 @@ class Plant {
     pop();
   }
 
-  getTopWorldPosition() {
-    return createVector(this.x, this.baseY - this.currentHeight, this.z);
+  getHoverWorldPosition() {
+    if (this.state === "dead") {
+      return createVector(this.x, this.baseY, this.z);
+    }
+
+    const topPoint = this.stem.getPointAt(1, this.state, this.currentHeight);
+
+    return createVector(
+      this.x + topPoint.x,
+      this.baseY + topPoint.y,
+      this.z + topPoint.z
+    );
   }
 
   isMouseNear() {
-    const top = this.getTopWorldPosition();
-    const screenPos = screenPosition(top.x, top.y, top.z);
+    const hoverPoint = this.getHoverWorldPosition();
+    const screenPos = screenPosition(hoverPoint.x, hoverPoint.y, hoverPoint.z);
 
+    const radius = this.state === "dead" ? 24 : 36;
     const d = dist(mouseX, mouseY, screenPos.x, screenPos.y);
-    return d < this.hoverRadius;
+
+    return d < radius;
   }
 
   getTooltipHTML() {
     return `
       <strong>${this.placeName}</strong><br/>
-      País: ${this.country}<br/>
+      Country: ${this.country}<br/>
       Rating: ${this.rating} ⭐<br/>
-      Texto: ${this.textLength} chars<br/>
-      Flores: ${this.flowerCount}<br/>
-      Estado: ${this.lifeState}
+      Review length: ${this.textLength} chars<br/>
+      Flowers: ${this.flowerCount}<br/>
+      Status: ${this.lifeState}
     `;
   }
 }

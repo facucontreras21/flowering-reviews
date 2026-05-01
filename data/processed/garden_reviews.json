@@ -2,7 +2,7 @@
   {
     "id": "the-colony-by-infinitum-1",
     "place_name": "The Colony By Infinitum",
-    "country": "Malasia",
+    "country": "Malaysia",
     "lon": 101.7005514,
     "lat": 3.1606451,
     "rating": 1,
@@ -11,7 +11,8 @@
     "flower_count": 8,
     "life_state": "dies",
     "height": 45.0,
-    "date": "2026-03-20T12:09:36.028914Z"
+    "date": "2026-03-20T12:09:36.028914Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfaed013ac5c76105"
   },
   {
     "id": "room4dessert-2",
@@ -25,7 +26,8 @@
     "flower_count": 5,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2026-01-17T09:57:14.723294Z"
+    "date": "2026-01-17T09:57:14.723294Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5c9b53e04a5de852"
   },
   {
     "id": "mupu-rice-terrace-3",
@@ -39,7 +41,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2026-01-16T08:18:07.851594Z"
+    "date": "2026-01-16T08:18:07.851594Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x78917f0c893ea6d"
   },
   {
     "id": "mai-malu-warung-4",
@@ -53,12 +56,13 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2026-01-13T11:04:40.816409Z"
+    "date": "2026-01-13T11:04:40.816409Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5b4127919aae15e5"
   },
   {
     "id": "kimchee-busan-guesthouse-5",
     "place_name": "Kimchee Busan Guesthouse",
-    "country": "Corea del Sur",
+    "country": "Korea, Republic of",
     "lon": 129.060344,
     "lat": 35.1483662,
     "rating": 3,
@@ -67,12 +71,13 @@
     "flower_count": 3,
     "life_state": "lives",
     "height": 85.0,
-    "date": "2025-07-06T03:02:14.822874Z"
+    "date": "2025-07-06T03:02:14.822874Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xedf489c6cf3d419f"
   },
   {
     "id": "seoul-cube-jongro-6",
     "place_name": "Seoul Cube Jongro",
-    "country": "180 4 층",
+    "country": "Korea, Republic of",
     "lon": 126.984665,
     "lat": 37.5691113,
     "rating": 5,
@@ -81,7 +86,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-07-03T07:52:07.473874Z"
+    "date": "2025-07-03T07:52:07.473874Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe0b538890508068"
   },
   {
     "id": "nyuh-gading-home-stay-lembongan-7",
@@ -95,7 +101,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-06-30T10:10:46.002092Z"
+    "date": "2025-06-30T10:10:46.002092Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6fd3c6ae3372fdbb"
   },
   {
     "id": "strand-rockpool-8",
@@ -109,7 +116,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2025-06-30T10:09:31.768382Z"
+    "date": "2025-06-30T10:09:31.768382Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb751afc6ddd7a0eb"
   },
   {
     "id": "jb-hi-fi-townsville-home-9",
@@ -123,7 +131,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-06-30T10:09:21.094386Z"
+    "date": "2025-06-30T10:09:21.094386Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xed3e0164b2ef45fb"
   },
   {
     "id": "the-blue-door-bar-restaurant-club-10",
@@ -137,7 +146,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-06-30T10:08:10.465123Z"
+    "date": "2025-06-30T10:08:10.465123Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x432b6ac30c6063dc"
   },
   {
     "id": "pizzeria-italia-ii-11",
@@ -151,12 +161,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2025-06-30T10:07:15.251085Z"
+    "date": "2025-06-30T10:07:15.251085Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1c826fc9fa103406"
   },
   {
     "id": "melasti-beach-ungasan-12",
     "place_name": "Melasti Beach Ungasan",
-    "country": "Unnamed Road",
+    "country": "Indonesia",
     "lon": 115.1606704,
     "lat": -8.8477419,
     "rating": 4,
@@ -165,7 +176,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2025-06-30T10:05:27.805342Z"
+    "date": "2025-06-30T10:05:27.805342Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd7fc41e66544fbab"
   },
   {
     "id": "acai-queen-13",
@@ -179,7 +191,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2025-06-30T10:04:37.317413Z"
+    "date": "2025-06-30T10:04:37.317413Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xda96bd2121f50811"
   },
   {
     "id": "dolan-restaurant-park-14",
@@ -193,7 +206,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2025-06-30T10:02:55.345181Z"
+    "date": "2025-06-30T10:02:55.345181Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x878881480576eb34"
   },
   {
     "id": "motel-mexicola-canggu-15",
@@ -207,7 +221,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-06-30T10:00:39.969270Z"
+    "date": "2025-06-30T10:00:39.969270Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb599b069341d8512"
   },
   {
     "id": "la-brisa-bali-beach-club-16",
@@ -221,7 +236,8 @@
     "flower_count": 3,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-06-30T09:58:18.650497Z"
+    "date": "2025-06-30T09:58:18.650497Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x86929db7c4eabc29"
   },
   {
     "id": "sacred-monkey-forest-sanctuary-17",
@@ -235,7 +251,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-06-30T09:55:22.781371Z"
+    "date": "2025-06-30T09:55:22.781371Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb6ec43164befc356"
   },
   {
     "id": "tegallalang-rice-terrace-18",
@@ -249,7 +266,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-06-30T09:54:07.881773Z"
+    "date": "2025-06-30T09:54:07.881773Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8d1a8969386c04ed"
   },
   {
     "id": "gembleng-waterfall-19",
@@ -263,7 +281,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-06-30T09:53:13.809513Z"
+    "date": "2025-06-30T09:53:13.809513Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe13bbcf799ce7421"
   },
   {
     "id": "sweet-escape-20",
@@ -277,7 +296,8 @@
     "flower_count": 3,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2025-06-30T09:51:51.313050Z"
+    "date": "2025-06-30T09:51:51.313050Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x67a1beff00bb9dc7"
   },
   {
     "id": "the-coconut-hut-mini-golf-21",
@@ -291,7 +311,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-06-30T09:49:37.280615Z"
+    "date": "2025-06-30T09:49:37.280615Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x34eaaf75e9010099"
   },
   {
     "id": "turtle-shore-22",
@@ -305,7 +326,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-06-30T09:49:20.820393Z"
+    "date": "2025-06-30T09:49:20.820393Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x690de1b536950b6a"
   },
   {
     "id": "gili-castle-23",
@@ -319,7 +341,8 @@
     "flower_count": 3,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2025-06-30T09:48:44.202264Z"
+    "date": "2025-06-30T09:48:44.202264Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbf8c569d31462bae"
   },
   {
     "id": "asri-dining-by-samanvaya-24",
@@ -333,7 +356,8 @@
     "flower_count": 3,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-06-26T05:21:18.530399Z"
+    "date": "2025-06-26T05:21:18.530399Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9d0786aaca03426a"
   },
   {
     "id": "mama-africa-bar-nightclub-25",
@@ -347,7 +371,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-03-06T16:36:24.737560Z"
+    "date": "2025-03-06T16:36:24.737560Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd4ef855603ba5696"
   },
   {
     "id": "synergie-australia-rockhampton-26",
@@ -361,7 +386,8 @@
     "flower_count": 6,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2025-01-08T09:13:12.596771Z"
+    "date": "2025-01-08T09:13:12.596771Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8104bf4e26b2c646"
   },
   {
     "id": "paddington-social-27",
@@ -375,12 +401,13 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-11T04:19:14.445482Z"
+    "date": "2024-02-11T04:19:14.445482Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3107ac7ed3398341"
   },
   {
     "id": "fansipan-terrace-cafe-foods-28",
     "place_name": "Fansipan Terrace Cafe & Foods",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 103.8385174,
     "lat": 22.3326387,
     "rating": 5,
@@ -389,12 +416,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-11T04:18:29.181445Z"
+    "date": "2024-02-11T04:18:29.181445Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xea662cf63cf6710b"
   },
   {
     "id": "lustig-hostel-29",
     "place_name": "Lustig Hostel",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 103.8398823,
     "lat": 22.3400311,
     "rating": 5,
@@ -403,12 +431,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-11T04:18:01.169575Z"
+    "date": "2024-02-11T04:18:01.169575Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x199e73249ab3909d"
   },
   {
     "id": "diep-nhung-30",
     "place_name": "Diep Nhung",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 105.2444781,
     "lat": 23.0674818,
     "rating": 5,
@@ -417,12 +446,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-11T04:17:34.061364Z"
+    "date": "2024-02-11T04:17:34.061364Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb996258f18f12c5c"
   },
   {
     "id": "28-train-street-cafe-bistro-31",
     "place_name": "28 Train Street - Cafe & Bistro",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 105.8449512,
     "lat": 21.0317707,
     "rating": 5,
@@ -431,12 +461,13 @@
     "flower_count": 3,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-11T04:17:01.959185Z"
+    "date": "2024-02-11T04:17:01.959185Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfc9f2bd6ea81bb5"
   },
   {
     "id": "maharaja-lounge-authentic-indian-100-veg-restaurant-32",
     "place_name": "Maharaja Lounge - Authentic Indian 100% Veg Restaurant",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 103.9646987,
     "lat": 10.2022801,
     "rating": 5,
@@ -445,12 +476,13 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-09T21:09:14.973625Z"
+    "date": "2024-02-09T21:09:14.973625Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x79feefbcb0bffef7"
   },
   {
     "id": "avs-hotel-phu-quoc-33",
     "place_name": "AVS HOTEL PHU QUOC",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 103.9639088,
     "lat": 10.2006591,
     "rating": 5,
@@ -459,7 +491,8 @@
     "flower_count": 3,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-09T21:08:22.083168Z"
+    "date": "2024-02-09T21:08:22.083168Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9dfd3efa1f48eef4"
   },
   {
     "id": "golden-palace-chinese-restaurant-chinatown-brisbane-34",
@@ -473,12 +506,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 85.0,
-    "date": "2024-02-09T21:07:27.656636Z"
+    "date": "2024-02-09T21:07:27.656636Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa94be160bc442382"
   },
   {
     "id": "happyhomes-28-sai-gon-central-hotel-35",
     "place_name": "HAPPYHOMES 28 Sai Gon Central Hotel",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 106.696443,
     "lat": 10.767536,
     "rating": 5,
@@ -487,12 +521,13 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-09T21:06:32.765438Z"
+    "date": "2024-02-09T21:06:32.765438Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x48c881c77e38f6e8"
   },
   {
     "id": "ta-hien-beer-street-36",
     "place_name": "Ta Hien Beer Street",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 105.85234,
     "lat": 21.034621,
     "rating": 5,
@@ -501,12 +536,13 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-09T21:05:28.751206Z"
+    "date": "2024-02-09T21:05:28.751206Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x18dc10a721595cba"
   },
   {
     "id": "le-gecko-restaurant-37",
     "place_name": "Le Gecko Restaurant",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 103.8499005,
     "lat": 22.3398604,
     "rating": 5,
@@ -515,7 +551,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-09T21:04:50.614532Z"
+    "date": "2024-02-09T21:04:50.614532Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x77ad0afde2b74c2"
   },
   {
     "id": "superthing-38",
@@ -529,7 +566,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-09T21:04:19.736388Z"
+    "date": "2024-02-09T21:04:19.736388Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7c224ee1c3ec5eda"
   },
   {
     "id": "fonzie-abbott-new-farm-39",
@@ -543,12 +581,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-09T21:00:16.811180Z"
+    "date": "2024-02-09T21:00:16.811180Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x619cc32c04a485d2"
   },
   {
-    "id": "kiss-of-the-sea-show-n-h-n-c-a-bi-n-c-40",
+    "id": "kiss-of-the-sea-show-nu-hon-cua-bien-ca-40",
     "place_name": "Kiss of the Sea show - Nụ hôn của Biển Cả",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 104.0060548,
     "lat": 10.0276968,
     "rating": 2,
@@ -557,12 +596,13 @@
     "flower_count": 2,
     "life_state": "dies",
     "height": 65.0,
-    "date": "2024-02-09T20:59:18.205065Z"
+    "date": "2024-02-09T20:59:18.205065Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xeb66168bcba036bf"
   },
   {
     "id": "the-home-pizza-tran-hung-dao-41",
     "place_name": "The Home Pizza Tran Hung Dao",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 103.968635,
     "lat": 10.197456,
     "rating": 5,
@@ -571,12 +611,13 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-09T20:58:18.545340Z"
+    "date": "2024-02-09T20:58:18.545340Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5b767e33eecf9e90"
   },
   {
-    "id": "nh-h-ng-h-i-s-n-thu-n-t-i-42",
+    "id": "nha-hang-hai-san-thuan-tai-42",
     "place_name": "Nhà hàng hải sản Thuận Tài",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 103.9596825,
     "lat": 10.2114521,
     "rating": 5,
@@ -585,7 +626,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-09T20:57:29.380136Z"
+    "date": "2024-02-09T20:57:29.380136Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x287d8b0911365062"
   },
   {
     "id": "pilgrim-brisbane-43",
@@ -599,12 +641,13 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-02-08T14:46:04.049606Z"
+    "date": "2024-02-08T14:46:04.049606Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x965b8ae133a22522"
   },
   {
     "id": "a-priori-coffee-house-44",
     "place_name": "A Priori Coffee House",
-    "country": "Vietnam",
+    "country": "Viet Nam",
     "lon": 106.6684984,
     "lat": 10.7728472,
     "rating": 5,
@@ -613,10 +656,11 @@
     "flower_count": 3,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2024-01-31T14:13:21.602220Z"
+    "date": "2024-01-31T14:13:21.602220Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x442b302ca2c81ff1"
   },
   {
-    "id": "socialtel-nueva-c-rdoba-45",
+    "id": "socialtel-nueva-cordoba-45",
     "place_name": "Socialtel Nueva Córdoba",
     "country": "Argentina",
     "lon": -64.184962,
@@ -627,7 +671,8 @@
     "flower_count": 3,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2023-09-14T22:37:12.901468Z"
+    "date": "2023-09-14T22:37:12.901468Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbcacd4f7d57122f1"
   },
   {
     "id": "quarterdeck-46",
@@ -641,7 +686,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2022-11-05T10:37:34.998101Z"
+    "date": "2022-11-05T10:37:34.998101Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa11041b0bd20522"
   },
   {
     "id": "domino-s-pizza-north-ward-47",
@@ -655,7 +701,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2022-11-05T10:36:42.061143Z"
+    "date": "2022-11-05T10:36:42.061143Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe322cbc880a6e655"
   },
   {
     "id": "molly-malone-s-irish-pub-48",
@@ -669,7 +716,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2022-11-05T10:36:09.152290Z"
+    "date": "2022-11-05T10:36:09.152290Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbca9a49751d02e3c"
   },
   {
     "id": "heritage-exchange-49",
@@ -683,7 +731,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2022-11-05T10:35:29.526363Z"
+    "date": "2022-11-05T10:35:29.526363Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc347e7128b597317"
   },
   {
     "id": "strand-park-50",
@@ -697,7 +746,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2022-09-02T10:27:21.224164Z"
+    "date": "2022-09-02T10:27:21.224164Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf00eef26261e4d0"
   },
   {
     "id": "cargo-bar-51",
@@ -711,7 +761,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2022-08-18T10:25:11.733894Z"
+    "date": "2022-08-18T10:25:11.733894Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2f517439214a7f2b"
   },
   {
     "id": "sydney-cbd-repair-centre-52",
@@ -725,10 +776,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2022-06-22T08:15:17.003758Z"
+    "date": "2022-06-22T08:15:17.003758Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfc0789472aba56c8"
   },
   {
-    "id": "picasso-joyer-a-53",
+    "id": "picasso-joyeria-53",
     "place_name": "Picasso Joyería",
     "country": "Argentina",
     "lon": -58.4041166,
@@ -739,7 +791,8 @@
     "flower_count": 3,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2021-07-01T23:14:50.696648Z"
+    "date": "2021-07-01T23:14:50.696648Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xec7a52aff1334fd1"
   },
   {
     "id": "garrison-resto-bar-54",
@@ -753,7 +806,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2019-10-21T03:31:04.903060Z"
+    "date": "2019-10-21T03:31:04.903060Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x80ebb2413b6c4c67"
   },
   {
     "id": "el-turco-sandwich-s-nieva-55",
@@ -767,7 +821,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-07-13T01:25:50.636600Z"
+    "date": "2019-07-13T01:25:50.636600Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf8e1fca3d4347a8a"
   },
   {
     "id": "hotel-los-sauces-cafayate-56",
@@ -781,7 +836,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-23T16:49:53.217885Z"
+    "date": "2019-06-23T16:49:53.217885Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb0df0b6455365666"
   },
   {
     "id": "el-alto-57",
@@ -795,10 +851,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-23T16:49:32.827884Z"
+    "date": "2019-06-23T16:49:32.827884Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5d684028a09dd2d4"
   },
   {
-    "id": "do-a-salta-58",
+    "id": "dona-salta-58",
     "place_name": "Doña Salta",
     "country": "Argentina",
     "lon": -65.4084659,
@@ -809,7 +866,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-23T16:48:55.938784Z"
+    "date": "2019-06-23T16:48:55.938784Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb06850558f7c4f4a"
   },
   {
     "id": "welt-brauerei-59",
@@ -823,12 +881,13 @@
     "flower_count": 1,
     "life_state": "dies",
     "height": 65.0,
-    "date": "2019-06-23T16:48:01.247880Z"
+    "date": "2019-06-23T16:48:01.247880Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x54862d22cd1c5c59"
   },
   {
     "id": "beets-roots-gro-e-hamburger-stra-e-60",
     "place_name": "beets&roots | Große Hamburger Straße",
-    "country": "Alemania",
+    "country": "Germany",
     "lon": 13.398588,
     "lat": 52.5266445,
     "rating": 5,
@@ -837,10 +896,11 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-13T21:18:13.732376Z"
+    "date": "2019-06-13T21:18:13.732376Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x904be3209272b837"
   },
   {
-    "id": "helader-a-ping-ino-garden-61",
+    "id": "heladeria-pinguino-garden-61",
     "place_name": "Heladería Pingüino Garden",
     "country": "Argentina",
     "lon": -65.3028416,
@@ -851,7 +911,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-09T05:17:25.319251Z"
+    "date": "2019-06-09T05:17:25.319251Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8708d7f84a07a5c"
   },
   {
     "id": "corralon-lucas-servitec-62",
@@ -865,7 +926,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-09T05:17:04.242213Z"
+    "date": "2019-06-09T05:17:04.242213Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd6808a2fcdad9432"
   },
   {
     "id": "fede-alvarez-tattoo-63",
@@ -879,7 +941,8 @@
     "flower_count": 1,
     "life_state": "dies",
     "height": 45.0,
-    "date": "2019-06-09T05:16:33.916103Z"
+    "date": "2019-06-09T05:16:33.916103Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc5e1ebfd882cf46"
   },
   {
     "id": "anfiteatro-las-lavanderas-64",
@@ -893,7 +956,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2019-06-09T05:16:17.273209Z"
+    "date": "2019-06-09T05:16:17.273209Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x813c20ad2a2c1c39"
   },
   {
     "id": "tattoo-65",
@@ -907,7 +971,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-09T05:16:01.980581Z"
+    "date": "2019-06-09T05:16:01.980581Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8d033985b070dcc"
   },
   {
     "id": "verduleria-sergio-66",
@@ -921,7 +986,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2019-06-09T05:15:14.838845Z"
+    "date": "2019-06-09T05:15:14.838845Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2b5a89200e30fcf0"
   },
   {
     "id": "toba-srl-67",
@@ -935,7 +1001,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-09T05:14:46.537328Z"
+    "date": "2019-06-09T05:14:46.537328Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9fb15c9da6ec443e"
   },
   {
     "id": "tecnicar-rtv-jujuy-68",
@@ -949,10 +1016,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-09T05:13:58.002785Z"
+    "date": "2019-06-09T05:13:58.002785Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd1462e8cb64190e7"
   },
   {
-    "id": "changom-s-69",
+    "id": "changomas-69",
     "place_name": "ChangoMâs",
     "country": "Argentina",
     "lon": -65.2884911,
@@ -963,7 +1031,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-09T05:13:31.465124Z"
+    "date": "2019-06-09T05:13:31.465124Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x64f780668130e176"
   },
   {
     "id": "chevere-venezuela-70",
@@ -977,7 +1046,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-09T05:12:37.392341Z"
+    "date": "2019-06-09T05:12:37.392341Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xde258eeea354632c"
   },
   {
     "id": "django-resto-bar-71",
@@ -991,10 +1061,11 @@
     "flower_count": 1,
     "life_state": "dies",
     "height": 85.0,
-    "date": "2019-06-09T05:12:08.666499Z"
+    "date": "2019-06-09T05:12:08.666499Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6b7046362f92a8f7"
   },
   {
-    "id": "caront-bar-72",
+    "id": "caronte-bar-72",
     "place_name": "Caronté Bar",
     "country": "Argentina",
     "lon": -65.3039448,
@@ -1005,7 +1076,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-09T05:11:44.814476Z"
+    "date": "2019-06-09T05:11:44.814476Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6148cf4f6b019051"
   },
   {
     "id": "negus-plaza-73",
@@ -1019,10 +1091,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2019-06-09T05:10:37.632209Z"
+    "date": "2019-06-09T05:10:37.632209Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe32b4b947b112cd3"
   },
   {
-    "id": "neum-ticos-jujuy-s-a-75",
+    "id": "neumaticos-jujuy-s-a-75",
     "place_name": "Neumáticos Jujuy S.A.",
     "country": "Argentina",
     "lon": -65.300393,
@@ -1033,10 +1106,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-09T05:09:58.902281Z"
+    "date": "2019-06-09T05:09:58.902281Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xeaa6bf2b5d05f378"
   },
   {
-    "id": "sandwicher-a-luisi-o-76",
+    "id": "sandwicheria-luisino-76",
     "place_name": "Sandwichería Luisiño",
     "country": "Argentina",
     "lon": -65.2887899,
@@ -1047,7 +1121,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-06-09T05:09:14.257747Z"
+    "date": "2019-06-09T05:09:14.257747Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8af86c873fddeed8"
   },
   {
     "id": "estacion-de-ferrocarril-77",
@@ -1061,7 +1136,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 85.0,
-    "date": "2019-06-09T05:08:47.742562Z"
+    "date": "2019-06-09T05:08:47.742562Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9b87ba9322587af1"
   },
   {
     "id": "cerveza-patagonia-refugio-reconquista-79",
@@ -1075,7 +1151,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-03-18T22:06:51.597359Z"
+    "date": "2019-03-18T22:06:51.597359Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xcc6eca97e3b67485"
   },
   {
     "id": "meta-arte-80",
@@ -1089,7 +1166,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2019-02-23T05:42:36.790573Z"
+    "date": "2019-02-23T05:42:36.790573Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x606c2b4701127b7d"
   },
   {
     "id": "topado-81",
@@ -1103,10 +1181,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2019-02-15T04:08:25.656627Z"
+    "date": "2019-02-15T04:08:25.656627Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6a1b120dbc094717"
   },
   {
-    "id": "librer-a-san-pablo-83",
+    "id": "libreria-san-pablo-83",
     "place_name": "Librería San Pablo",
     "country": "Argentina",
     "lon": -65.304078,
@@ -1117,7 +1196,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2019-01-18T16:08:18.557283Z"
+    "date": "2019-01-18T16:08:18.557283Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa47800e6d193e45"
   },
   {
     "id": "vea-84",
@@ -1131,12 +1211,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2019-01-18T00:30:58.925263Z"
+    "date": "2019-01-18T00:30:58.925263Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbf97829131cf44c4"
   },
   {
     "id": "bastion-de-los-pescadores-86",
     "place_name": "bastion de los pescadores",
-    "country": "1014 Hungría",
+    "country": "Hungary",
     "lon": 19.0347812,
     "lat": 47.5021827,
     "rating": 5,
@@ -1145,12 +1226,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-12-01T04:05:46.161603Z"
+    "date": "2018-12-01T04:05:46.161603Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2f263ca844235e46"
   },
   {
     "id": "szimpla-kert-ruin-bar-87",
     "place_name": "Szimpla Kert RUIN BAR",
-    "country": "1075 Hungría",
+    "country": "Hungary",
     "lon": 19.0633459,
     "lat": 47.4969648,
     "rating": 5,
@@ -1159,12 +1241,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-12-01T04:05:29.446012Z"
+    "date": "2018-12-01T04:05:29.446012Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x267742d3fb311da4"
   },
   {
     "id": "temple-of-poseidon-88",
     "place_name": "Temple of Poseidon",
-    "country": "Grecia",
+    "country": "Greece",
     "lon": 24.0245867,
     "lat": 37.6502055,
     "rating": 5,
@@ -1173,7 +1256,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-12-01T04:04:49.893803Z"
+    "date": "2018-12-01T04:04:49.893803Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3d510006fedd3a04"
   },
   {
     "id": "giramundo-hostel-humahuaca-89",
@@ -1187,10 +1271,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-12-01T04:02:44.972389Z"
+    "date": "2018-12-01T04:02:44.972389Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1599a6730ed3e767"
   },
   {
-    "id": "caf-dos-chinos-90",
+    "id": "cafe-dos-chinos-90",
     "place_name": "Café Dos Chinos",
     "country": "Argentina",
     "lon": -65.303287,
@@ -1201,7 +1286,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-12-01T04:02:23.593998Z"
+    "date": "2018-12-01T04:02:23.593998Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb202f0d4b270c113"
   },
   {
     "id": "annuar-shopping-91",
@@ -1215,7 +1301,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-12-01T04:02:06.632526Z"
+    "date": "2018-12-01T04:02:06.632526Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6de3783cdf249cc7"
   },
   {
     "id": "plaza-belgrano-92",
@@ -1229,10 +1316,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 85.0,
-    "date": "2018-12-01T04:01:57.590881Z"
+    "date": "2018-12-01T04:01:57.590881Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x552c0eaeb6432a0"
   },
   {
-    "id": "rey-l-pulo-93",
+    "id": "rey-lupulo-93",
     "place_name": "Rey Lúpulo",
     "country": "Argentina",
     "lon": -65.3016464,
@@ -1243,12 +1331,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-12-01T04:01:50.961966Z"
+    "date": "2018-12-01T04:01:50.961966Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x72bcb92073695200"
   },
   {
     "id": "smarty-hotel-hostel-boardinghouse-94",
     "place_name": "SMARTY Hotel | Hostel | Boardinghouse",
-    "country": "Alemania",
+    "country": "Germany",
     "lon": 6.9383243,
     "lat": 50.9334441,
     "rating": 3,
@@ -1257,12 +1346,13 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 85.0,
-    "date": "2018-08-14T00:50:38.115Z"
+    "date": "2018-08-14T00:50:38.115Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbe2ac17b6ae0de"
   },
   {
-    "id": "delirium-caf-95",
+    "id": "delirium-cafe-95",
     "place_name": "Delirium Café",
-    "country": "Bélgica",
+    "country": "Belgium",
     "lon": 4.3538834,
     "lat": 50.8485002,
     "rating": 5,
@@ -1271,12 +1361,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-08-14T00:49:31.906Z"
+    "date": "2018-08-14T00:49:31.906Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x26e1f42d7ed8d292"
   },
   {
     "id": "auberge-de-jeunesse-bruegel-96",
     "place_name": "Auberge de jeunesse Bruegel",
-    "country": "Bélgica",
+    "country": "Belgium",
     "lon": 4.3515442,
     "lat": 50.841896,
     "rating": 3,
@@ -1285,12 +1376,13 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 85.0,
-    "date": "2018-08-14T00:49:13.703Z"
+    "date": "2018-08-14T00:49:13.703Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x563fba3aaadf34fd"
   },
   {
     "id": "castello-svevo-di-bari-97",
     "place_name": "Castello Svevo di Bari",
-    "country": "Italia",
+    "country": "Italy",
     "lon": 16.8663979,
     "lat": 41.127901,
     "rating": 4,
@@ -1299,12 +1391,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-08-14T00:46:41.671Z"
+    "date": "2018-08-14T00:46:41.671Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd7dccf940ba920c2"
   },
   {
     "id": "plaza-del-plebiscito-98",
     "place_name": "Plaza del Plebiscito",
-    "country": "Italia",
+    "country": "Italy",
     "lon": 14.2485831,
     "lat": 40.8358256,
     "rating": 4,
@@ -1313,12 +1406,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-08-14T00:46:18.226Z"
+    "date": "2018-08-14T00:46:18.226Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8ad9122a45803c14"
   },
   {
     "id": "eazie-amsterdam-bijlmerplein-99",
     "place_name": "Eazie Amsterdam Bijlmerplein",
-    "country": "Países Bajos",
+    "country": "Netherlands",
     "lon": 4.9496754,
     "lat": 52.3127645,
     "rating": 4,
@@ -1327,12 +1421,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-08-14T00:45:53.121Z"
+    "date": "2018-08-14T00:45:53.121Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbe079f48391d6072"
   },
   {
     "id": "pizzeria-donna-sofia-ai-tribunali-napoli-101",
     "place_name": "Pizzeria Donna Sofia Ai Tribunali | Napoli",
-    "country": "Italia",
+    "country": "Italy",
     "lon": 14.257791,
     "lat": 40.85123,
     "rating": 5,
@@ -1341,12 +1436,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-08-14T00:44:39.761Z"
+    "date": "2018-08-14T00:44:39.761Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8ef1a04596548b23"
   },
   {
     "id": "radisson-blu-hotel-antwerp-city-centre-103",
     "place_name": "Radisson Blu Hotel, Antwerp City Centre",
-    "country": "Bélgica",
+    "country": "Belgium",
     "lon": 4.4213914,
     "lat": 51.2191354,
     "rating": 5,
@@ -1355,12 +1451,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-08-14T00:43:17.099Z"
+    "date": "2018-08-14T00:43:17.099Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc5d5815b317f896e"
   },
   {
     "id": "alias-youth-hostel-104",
     "place_name": "Alias Youth Hostel",
-    "country": "Bélgica",
+    "country": "Belgium",
     "lon": 4.4251336,
     "lat": 51.209584,
     "rating": 5,
@@ -1369,12 +1466,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-08-14T00:43:10.155Z"
+    "date": "2018-08-14T00:43:10.155Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x71c39e6a91808783"
   },
   {
     "id": "coliseo-de-roma-105",
     "place_name": "Coliseo de Roma",
-    "country": "Italia",
+    "country": "Italy",
     "lon": 12.4922309,
     "lat": 41.8902102,
     "rating": 4,
@@ -1383,12 +1481,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-08-14T00:42:38.063Z"
+    "date": "2018-08-14T00:42:38.063Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x28f1c82e908503c4"
   },
   {
     "id": "fontana-di-trevi-106",
     "place_name": "Fontana di Trevi",
-    "country": "Italia",
+    "country": "Italy",
     "lon": 12.483313,
     "lat": 41.9009325,
     "rating": 4,
@@ -1397,7 +1496,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-08-14T00:42:01.310Z"
+    "date": "2018-08-14T00:42:01.310Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf676f1e1cc02bbb6"
   },
   {
     "id": "xibi-xibi-comidas-para-llevar-107",
@@ -1411,12 +1511,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-08-14T00:41:22.147Z"
+    "date": "2018-08-14T00:41:22.147Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5c08832edc27163d"
   },
   {
     "id": "yellow-bar-108",
     "place_name": "Yellow Bar",
-    "country": "Italia",
+    "country": "Italy",
     "lon": 12.5045377,
     "lat": 41.904907,
     "rating": 5,
@@ -1425,12 +1526,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-08-14T00:40:50.103Z"
+    "date": "2018-08-14T00:40:50.103Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb841297bb18a53bb"
   },
   {
     "id": "efes-resto-kebab-109",
     "place_name": "Efes Resto kebab",
-    "country": "Francia",
+    "country": "France",
     "lon": 6.8563395,
     "lat": 47.6311025,
     "rating": 5,
@@ -1439,12 +1541,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-08-14T00:40:28.204Z"
+    "date": "2018-08-14T00:40:28.204Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6c5b5f8815871245"
   },
   {
-    "id": "burger-king-r-mlang-110",
+    "id": "burger-king-rumlang-110",
     "place_name": "Burger King Rümlang",
-    "country": "Suiza",
+    "country": "Switzerland",
     "lon": 8.5235709,
     "lat": 47.4613997,
     "rating": 4,
@@ -1453,12 +1556,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-08-14T00:39:55.064Z"
+    "date": "2018-08-14T00:39:55.064Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf4a7cd75fd9ec036"
   },
   {
     "id": "museo-vaticano-111",
     "place_name": "Museo Vaticano",
-    "country": "Ciudad del Vaticano",
+    "country": "Holy See (Vatican City State)",
     "lon": 12.4536413,
     "lat": 41.9064878,
     "rating": 3,
@@ -1467,12 +1571,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 85.0,
-    "date": "2018-08-14T00:39:38.574Z"
+    "date": "2018-08-14T00:39:38.574Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xcfe0eca0526416b6"
   },
   {
     "id": "plaza-de-san-pedro-112",
     "place_name": "Plaza de San Pedro",
-    "country": "Ciudad del Vaticano",
+    "country": "Holy See",
     "lon": 12.4567302,
     "lat": 41.9022309,
     "rating": 3,
@@ -1481,12 +1586,13 @@
     "flower_count": 1,
     "life_state": "dies",
     "height": 85.0,
-    "date": "2018-08-14T00:37:37.125Z"
+    "date": "2018-08-14T00:37:37.125Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xefc0d618affc9ec5"
   },
   {
-    "id": "mateju-ka-113",
+    "id": "matejuska-113",
     "place_name": "Matejuška",
-    "country": "Croacia",
+    "country": "Croatia",
     "lon": 16.4350101,
     "lat": 43.5074319,
     "rating": 2,
@@ -1495,12 +1601,13 @@
     "flower_count": 1,
     "life_state": "dies",
     "height": 65.0,
-    "date": "2018-08-14T00:37:30.540Z"
+    "date": "2018-08-14T00:37:30.540Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4dfb5177f9f838d2"
   },
   {
     "id": "palacio-de-diocleciano-115",
     "place_name": "Palacio de Diocleciano",
-    "country": "Croacia",
+    "country": "Croatia",
     "lon": 16.4401754,
     "lat": 43.5082646,
     "rating": 4,
@@ -1509,12 +1616,13 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-08-14T00:36:23.865Z"
+    "date": "2018-08-14T00:36:23.865Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x921ac62569576f32"
   },
   {
     "id": "fnac-bruxelles-toison-d-or-116",
     "place_name": "FNAC Bruxelles - Toison d’Or",
-    "country": "Bélgica",
+    "country": "Belgium",
     "lon": 4.3599282,
     "lat": 50.8372668,
     "rating": 4,
@@ -1523,12 +1631,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-08-14T00:35:39.325Z"
+    "date": "2018-08-14T00:35:39.325Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x857cfda58e55c90c"
   },
   {
     "id": "grand-place-117",
     "place_name": "Grand Place",
-    "country": "Bélgica",
+    "country": "Belgium",
     "lon": 4.3524356,
     "lat": 50.8467887,
     "rating": 5,
@@ -1537,12 +1646,13 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-08-14T00:35:22.130Z"
+    "date": "2018-08-14T00:35:22.130Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb03c355d8fe2cfb6"
   },
   {
     "id": "mcdonald-s-118",
     "place_name": "McDonald's",
-    "country": "Bélgica",
+    "country": "Belgium",
     "lon": 4.3492909,
     "lat": 50.8486551,
     "rating": 4,
@@ -1551,12 +1661,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-08-14T00:34:39.465Z"
+    "date": "2018-08-14T00:34:39.465Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6eacef37adbec8db"
   },
   {
     "id": "casa-de-anne-frank-119",
     "place_name": "Casa de Anne Frank",
-    "country": "Países Bajos",
+    "country": "Netherlands",
     "lon": 4.8839765,
     "lat": 52.3752182,
     "rating": 5,
@@ -1565,12 +1676,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-08-14T00:34:24.362Z"
+    "date": "2018-08-14T00:34:24.362Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd49a5d653e635b0a"
   },
   {
     "id": "mcdonald-s-120",
     "place_name": "McDonald's",
-    "country": "Países Bajos",
+    "country": "Netherlands",
     "lon": 4.8927825,
     "lat": 52.3739461,
     "rating": 3,
@@ -1579,10 +1691,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 85.0,
-    "date": "2018-08-14T00:34:01.787Z"
+    "date": "2018-08-14T00:34:01.787Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4315115cb9076199"
   },
   {
-    "id": "pepira-cafe-rest-121",
+    "id": "pepira-cafe-resto-121",
     "place_name": "PEPIRA Cafe & restó",
     "country": "Argentina",
     "lon": -65.2995211,
@@ -1593,12 +1706,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-08-14T00:33:42.061Z"
+    "date": "2018-08-14T00:33:42.061Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x660dd2605945518c"
   },
   {
     "id": "the-tobacco-bercy-122",
     "place_name": "THE TOBACCO BERCY",
-    "country": "Francia",
+    "country": "France",
     "lon": 2.3803383,
     "lat": 48.8400178,
     "rating": 4,
@@ -1607,10 +1721,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-08-14T00:33:18.966Z"
+    "date": "2018-08-14T00:33:18.966Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xeb416c954a94b55e"
   },
   {
-    "id": "bogot-123",
+    "id": "bogota-123",
     "place_name": "Bogotá",
     "country": "Argentina",
     "lon": -65.3187839,
@@ -1621,12 +1736,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-08-14T00:32:26.591Z"
+    "date": "2018-08-14T00:32:26.591Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x95b85e05e659ab4"
   },
   {
     "id": "goody-s-burger-house-124",
     "place_name": "Goody's Burger House",
-    "country": "Grecia",
+    "country": "Greece",
     "lon": 23.7299126,
     "lat": 37.9934574,
     "rating": 5,
@@ -1635,12 +1751,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-07-08T21:42:26.704Z"
+    "date": "2018-07-08T21:42:26.704Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf413ad7ac09e67d"
   },
   {
     "id": "plaza-de-la-libertad-125",
     "place_name": "Plaza de la Libertad",
-    "country": "1054 Hungría",
+    "country": "Hungary",
     "lon": 19.0506096,
     "lat": 47.5039749,
     "rating": 4,
@@ -1649,12 +1766,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-07-06T14:22:01.539Z"
+    "date": "2018-07-06T14:22:01.539Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4ffd46a712e22e81"
   },
   {
     "id": "u-parlamentu-126",
     "place_name": "U Parlamentu",
-    "country": "Chequia",
+    "country": "Czechia",
     "lon": 14.4166059,
     "lat": 50.088249,
     "rating": 5,
@@ -1663,7 +1781,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-04-21T13:39:48.445Z"
+    "date": "2018-04-21T13:39:48.445Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6055d34d862e6582"
   },
   {
     "id": "wombat-s-city-hostel-vienna-naschmarkt-127",
@@ -1677,12 +1796,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-04-17T06:43:13.806Z"
+    "date": "2018-04-17T06:43:13.806Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x76a08930b45863d5"
   },
   {
     "id": "slovak-pub-128",
     "place_name": "Slovak Pub",
-    "country": "Eslovaquia",
+    "country": "Slovakia",
     "lon": 17.1123815,
     "lat": 48.1483824,
     "rating": 5,
@@ -1691,12 +1811,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-04-17T06:42:56.241Z"
+    "date": "2018-04-17T06:42:56.241Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1261e75938998ecc"
   },
   {
-    "id": "bratislavsk-hrad-129",
+    "id": "bratislavsky-hrad-129",
     "place_name": "Bratislavský Hrad",
-    "country": "Eslovaquia",
+    "country": "Slovakia",
     "lon": 17.1002348,
     "lat": 48.1421086,
     "rating": 5,
@@ -1705,12 +1826,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-04-17T06:42:40.355Z"
+    "date": "2018-04-17T06:42:40.355Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2fd320efbc06a139"
   },
   {
     "id": "bull-bear-restaurant-sportsbar-130",
     "place_name": "Bull & Bear Restaurant & Sportsbar",
-    "country": "Alemania",
+    "country": "Germany",
     "lon": 8.6783984,
     "lat": 50.1150892,
     "rating": 5,
@@ -1719,12 +1841,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-04-09T04:58:39.757Z"
+    "date": "2018-04-09T04:58:39.757Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x239fc78797f88722"
   },
   {
     "id": "adolf-wagner-131",
     "place_name": "Adolf Wagner",
-    "country": "Alemania",
+    "country": "Germany",
     "lon": 8.6819641,
     "lat": 50.1005298,
     "rating": 5,
@@ -1733,12 +1856,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-04-09T04:58:17.397Z"
+    "date": "2018-04-09T04:58:17.397Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfaee38d0988055ff"
   },
   {
     "id": "nevermind-132",
     "place_name": "Nevermind",
-    "country": "España",
+    "country": "Spain",
     "lon": 2.1759367,
     "lat": 41.3806085,
     "rating": 5,
@@ -1747,12 +1871,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-02-13T20:51:59.411Z"
+    "date": "2018-02-13T20:51:59.411Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x33e27b9799e3f1a7"
   },
   {
-    "id": "wow-i-stanbul-hotel-133",
+    "id": "wow-istanbul-hotel-133",
     "place_name": "WOW İstanbul Hotel",
-    "country": "Turquía",
+    "country": "Türkiye",
     "lon": 28.8302371,
     "lat": 40.9878399,
     "rating": 5,
@@ -1761,12 +1886,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-01-30T15:02:00.662Z"
+    "date": "2018-01-30T15:02:00.662Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x494e3e5fcbe852d9"
   },
   {
     "id": "ibis-budget-belfort-centre-134",
     "place_name": "ibis budget Belfort Centre",
-    "country": "Francia",
+    "country": "France",
     "lon": 6.8745911,
     "lat": 47.6391645,
     "rating": 1,
@@ -1775,10 +1901,11 @@
     "flower_count": 1,
     "life_state": "dies",
     "height": 45.0,
-    "date": "2018-01-30T15:01:34.119Z"
+    "date": "2018-01-30T15:01:34.119Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc3ff2a946f6945f4"
   },
   {
-    "id": "bodeg-n-la-pipeta-135",
+    "id": "bodegon-la-pipeta-135",
     "place_name": "Bodegón La Pipeta",
     "country": "Argentina",
     "lon": -58.3739775,
@@ -1789,7 +1916,8 @@
     "flower_count": 1,
     "life_state": "dies",
     "height": 45.0,
-    "date": "2018-01-29T15:39:54.599Z"
+    "date": "2018-01-29T15:39:54.599Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe4597041c13cfa42"
   },
   {
     "id": "alma-de-buenos-aires-136",
@@ -1803,7 +1931,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-01-29T15:39:15.918Z"
+    "date": "2018-01-29T15:39:15.918Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa308569563c60699"
   },
   {
     "id": "la-bistecca-137",
@@ -1817,7 +1946,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-01-29T15:38:47.716Z"
+    "date": "2018-01-29T15:38:47.716Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfcb6b282f4adbd28"
   },
   {
     "id": "chan-chan-138",
@@ -1831,10 +1961,11 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-01-26T14:49:42.690Z"
+    "date": "2018-01-26T14:49:42.690Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x88560f2b0a2f0e58"
   },
   {
-    "id": "biblos-rest-coffee-139",
+    "id": "biblos-resto-coffee-139",
     "place_name": "Biblos Restó & Coffee",
     "country": "Argentina",
     "lon": -58.3841378,
@@ -1845,7 +1976,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-01-24T17:04:34.292Z"
+    "date": "2018-01-24T17:04:34.292Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x242674afb304272a"
   },
   {
     "id": "bonafide-140",
@@ -1859,7 +1991,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-01-24T17:03:01.189Z"
+    "date": "2018-01-24T17:03:01.189Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2cd247d59e4d9192"
   },
   {
     "id": "bar-irlanda-141",
@@ -1873,7 +2006,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-01-18T00:58:28.375Z"
+    "date": "2018-01-18T00:58:28.375Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9eaf4a860d52daf"
   },
   {
     "id": "a-la-gurda-hostel-142",
@@ -1887,7 +2021,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-01-18T00:57:39.757Z"
+    "date": "2018-01-18T00:57:39.757Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x38a8654f25d38086"
   },
   {
     "id": "el-turco-sandwich-s-centro-143",
@@ -1901,7 +2036,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-01-18T00:56:58.734Z"
+    "date": "2018-01-18T00:56:58.734Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xaa576bfd076c3159"
   },
   {
     "id": "cine-teatro-municipal-select-144",
@@ -1915,7 +2051,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-01-18T00:47:12.731Z"
+    "date": "2018-01-18T00:47:12.731Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x63fc6ff795d3cff4"
   },
   {
     "id": "negus-parque-145",
@@ -1929,7 +2066,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-01-18T00:46:29.791Z"
+    "date": "2018-01-18T00:46:29.791Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xef1b3853ec677990"
   },
   {
     "id": "los-naranjos-parrillada-146",
@@ -1943,10 +2081,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-01-18T00:46:10.429Z"
+    "date": "2018-01-18T00:46:10.429Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x19ba4939dc9ca6b8"
   },
   {
-    "id": "la-pizzer-a-de-t-o-bigote-147",
+    "id": "la-pizzeria-de-tio-bigote-147",
     "place_name": "La Pizzería de Tío Bigote",
     "country": "Argentina",
     "lon": -65.3083247,
@@ -1957,7 +2096,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-01-18T00:46:00.329Z"
+    "date": "2018-01-18T00:46:00.329Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6acfa1f13e987954"
   },
   {
     "id": "hotel-impala-148",
@@ -1971,7 +2111,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-01-18T00:44:24.292Z"
+    "date": "2018-01-18T00:44:24.292Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdffb901d7ca14ea8"
   },
   {
     "id": "supermercados-comodin-149",
@@ -1985,7 +2126,8 @@
     "flower_count": 2,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-01-18T00:43:47.221Z"
+    "date": "2018-01-18T00:43:47.221Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfb91062e16f51f12"
   },
   {
     "id": "plaza-de-los-inmigrantes-150",
@@ -1999,10 +2141,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-01-18T00:42:21.073Z"
+    "date": "2018-01-18T00:42:21.073Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5ae7d1928382717b"
   },
   {
-    "id": "parque-san-mart-n-151",
+    "id": "parque-san-martin-151",
     "place_name": "Parque San Martín",
     "country": "Argentina",
     "lon": -65.3155217,
@@ -2013,10 +2156,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-01-18T00:41:47.992Z"
+    "date": "2018-01-18T00:41:47.992Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x83837b5f9b5c2ca2"
   },
   {
-    "id": "plaza-hip-lito-yrigoyen-152",
+    "id": "plaza-hipolito-yrigoyen-152",
     "place_name": "Plaza Hipólito Yrigoyen",
     "country": "Argentina",
     "lon": -65.3165645,
@@ -2027,7 +2171,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-01-18T00:41:42.680Z"
+    "date": "2018-01-18T00:41:42.680Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe93fff2d15325092"
   },
   {
     "id": "el-turco-sandwich-s-153",
@@ -2041,7 +2186,8 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-01-18T00:41:13.248Z"
+    "date": "2018-01-18T00:41:13.248Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa8c0d1a60f8bc74c"
   },
   {
     "id": "restaurante-ruta-9-154",
@@ -2055,10 +2201,11 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-01-18T00:40:41.432Z"
+    "date": "2018-01-18T00:40:41.432Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x32b3d705014ef70e"
   },
   {
-    "id": "dulce-y-melanc-lico-155",
+    "id": "dulce-y-melancolico-155",
     "place_name": "Dulce y Melancólico",
     "country": "Argentina",
     "lon": -65.3071515,
@@ -2069,12 +2216,13 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 110.0,
-    "date": "2018-01-18T00:39:48.747Z"
+    "date": "2018-01-18T00:39:48.747Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x82493f50dec86fd"
   },
   {
-    "id": "playa-jo-o-fernandes-156",
+    "id": "playa-joao-fernandes-156",
     "place_name": "Playa João Fernandes",
-    "country": "Brasil",
+    "country": "Brazil",
     "lon": -41.8752356,
     "lat": -22.7421251,
     "rating": 5,
@@ -2083,6 +2231,7 @@
     "flower_count": 1,
     "life_state": "lives",
     "height": 135.0,
-    "date": "2018-01-17T21:06:38.702Z"
+    "date": "2018-01-17T21:06:38.702Z",
+    "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfde353ec7ca77dd7"
   }
 ]

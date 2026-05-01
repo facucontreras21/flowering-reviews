@@ -7,23 +7,32 @@ class FlowerCluster {
   }
 
   buildBranchOffsets() {
-  const offsets = [];
+    const offsets = [];
+    const sideCount = max(0, this.flowerCount - 1);
 
-  const sideCount = max(0, this.flowerCount - 1);
+    if (sideCount === 0) return offsets;
 
-  for (let i = 0; i < sideCount; i++) {
-    const side = i % 2 === 0 ? -1 : 1;
+    const minDropFromTop = this.stemHeight * 0.25; // un poco debajo de la punta
+    const maxDropFromTop = this.stemHeight * 0.35;  // nunca más abajo que la mitad
 
-    offsets.push({
-      side,
-      bendX: random(3, 6) * side,
-      bendZ: random(-1.5, 1.5),
-      lift: random(2, 5),
-    });
+    for (let i = 0; i < sideCount; i++) { 
+      const side = i % 2 === 0 ? -1 : 1;
+
+      // distribuye las ramas entre cerca de la punta y la mitad del tallo
+      const t = sideCount === 1 ? 0.35 : i / (sideCount - 1);
+      const dropFromTop = lerp(minDropFromTop, maxDropFromTop, t);
+
+      offsets.push({
+        side,
+        attachY: -this.stemHeight + dropFromTop,
+        bendX: random(2, 6) * side,
+        bendZ: random(-3, 3),
+        lift: random(6, 10),
+      });
+    }
+
+    return offsets;
   }
-
-  return offsets;
-}
 
   spawnPetals(currentHeight) {
     this.petals = [];
@@ -99,8 +108,8 @@ class FlowerCluster {
       // nacen cerca de la punta, pero más abajo
       const t =
         sideFlowerCount === 1
-          ? 0.88
-          : map(i, 0, sideFlowerCount - 1, 0.8, 0.94);
+          ? 0.72
+          : map(i, 0, sideFlowerCount - 1, 0.82, 0.5);
 
       const stemPoint = stem.getPointAt(t, state, currentHeight);
 
@@ -125,8 +134,6 @@ class FlowerCluster {
       translate(offset.bendX, -offset.lift, offset.bendZ);
 
       // que la base de la flor toque el final del tallito
-      translate(0, 4.2, 0);
-
       this.drawTulip(this.flowerColors[(i + 1) % this.flowerColors.length]);
 
       pop();
@@ -152,30 +159,53 @@ class FlowerCluster {
   }
 
   drawTulip(petalColor) {
+    push();
+
     noStroke();
 
-    // pétalos más cerrados, hacia arriba
-    for (let i = 0; i < 4; i++) {
-      push();
-      rotateY(map(i, 0, 4, 0, TWO_PI));
-      translate(2.2, -3.3, 0);
-      rotateZ(0.35);
-      fill(red(petalColor), green(petalColor), blue(petalColor), 220);
-      ellipsoid(2.3, 7.8, 2.0);
-      pop();
-    }
-
-    // pétalo frontal extra para que se sienta más tulipán
+    // pétalo central
     push();
-    translate(0, -4.5, 2.2);
-    rotateX(0.15);
-    fill(red(petalColor), green(petalColor), blue(petalColor), 230);
-    ellipsoid(2.4, 6.7, 2.0);
+    fill(petalColor);
+    translate(0, -2.2, 0);
+    scale(0.75, 1.35, 0.35);
+    ellipsoid(3, 4.5, 2.2);
     pop();
 
+    // pétalo izquierdo
     push();
-    fill(255, 230);
-    sphere(1.6);
+    fill(petalColor);
+    translate(-1.8, -1.7, 0.4);
+    rotateZ(-0.28);
+    rotateY(-0.35);
+    scale(0.65, 1.25, 0.32);
+    ellipsoid(3, 4.5, 2.2);
+    pop();
+
+    // pétalo derecho
+    push();
+    fill(petalColor);
+    translate(1.8, -1.7, 0.4);
+    rotateZ(0.28);
+    rotateY(0.35);
+    scale(0.65, 1.25, 0.32);
+    ellipsoid(3, 4.5, 2.2);
+    pop();
+
+    // pétalos de atrás, más oscuros/chicos
+    push();
+    fill(red(petalColor) * 0.85, green(petalColor) * 0.85, blue(petalColor) * 0.85);
+    translate(0, -2.3, -1.0);
+    scale(0.9, 1.2, 0.3);
+    ellipsoid(3, 4.2, 2);
+    pop();
+
+    // base mínima, escondida dentro de la flor
+    push();
+    fill(45, 125, 70);
+    translate(0, 2.0, 0);
+    ellipsoid(1.3, 0.7, 1.1);
+    pop();
+
     pop();
   }
 }
