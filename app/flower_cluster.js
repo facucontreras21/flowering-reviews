@@ -75,13 +75,8 @@ class FlowerCluster {
     }
   }
 
-  display(state, currentHeight, stem) {
+  display(state, currentHeight, stem, alpha = 255) {
     if (!["bloom", "alive", "dying"].includes(state)) return;
-
-    if (state === "dying") {
-      this.displayDetachedPetals();
-      return;
-    }
 
     // ===== FLOR PRINCIPAL EN LA PUNTA =====
     const topPoint = stem.getPointAt(1, state, currentHeight);
@@ -91,9 +86,11 @@ class FlowerCluster {
     rotateZ(topPoint.x * 0.015);
 
     // ajuste para que la base de la flor apoye en la punta
-    translate(0, 4.8, 0);
+    const flowerYOffset = state === "dying" ? 10 : 15;
 
-    this.drawTulip(this.flowerColors[0]);
+    translate(0, flowerYOffset, 6);
+
+    this.drawGeranium(this.flowerColors[0], alpha);
     pop();
 
     // si solo hay una flor, terminamos acá
@@ -133,8 +130,12 @@ class FlowerCluster {
 
       translate(offset.bendX, -offset.lift, offset.bendZ);
 
+      translate(0, 4, 6);
       // que la base de la flor toque el final del tallito
-      this.drawTulip(this.flowerColors[(i + 1) % this.flowerColors.length]);
+      this.drawGeranium(
+        this.flowerColors[(i + 1) % this.flowerColors.length],
+        alpha
+      );
 
       pop();
     }
@@ -158,53 +159,56 @@ class FlowerCluster {
     }
   }
 
-  drawTulip(petalColor) {
+  drawGeranium(petalColor, alpha = 255) {
     push();
-
     noStroke();
 
-    // pétalo central
-    push();
-    fill(petalColor);
-    translate(0, -2.2, 0);
-    scale(0.75, 1.35, 0.35);
-    ellipsoid(3, 4.5, 2.2);
-    pop();
+    const petalCount = 8;
+    const radius = 5.2;
 
-    // pétalo izquierdo
-    push();
-    fill(petalColor);
-    translate(-1.8, -1.7, 0.4);
-    rotateZ(-0.28);
-    rotateY(-0.35);
-    scale(0.65, 1.25, 0.32);
-    ellipsoid(3, 4.5, 2.2);
-    pop();
+    // pétalos
+    for (let i = 0; i < petalCount; i++) {
+      const angle = (TWO_PI / petalCount) * i;
 
-    // pétalo derecho
-    push();
-    fill(petalColor);
-    translate(1.8, -1.7, 0.4);
-    rotateZ(0.28);
-    rotateY(0.35);
-    scale(0.65, 1.25, 0.32);
-    ellipsoid(3, 4.5, 2.2);
-    pop();
+      push();
+      rotateZ(angle);
+      translate(0, -radius, 0);
 
-    // pétalos de atrás, más oscuros/chicos
-    push();
-    fill(red(petalColor) * 0.85, green(petalColor) * 0.85, blue(petalColor) * 0.85);
-    translate(0, -2.3, -1.0);
-    scale(0.9, 1.2, 0.3);
-    ellipsoid(3, 4.2, 2);
-    pop();
+      fill(
+        red(petalColor),
+        green(petalColor),
+        blue(petalColor),
+        min(235, alpha)
+      );
 
-    // base mínima, escondida dentro de la flor
-    push();
-    fill(45, 125, 70);
-    translate(0, 2.0, 0);
-    ellipsoid(1.3, 0.7, 1.1);
-    pop();
+      scale(0.75, 1.35, 0.25);
+      ellipsoid(3, 3.8, 1.2);
+      pop();
+    }
+
+    // pétalos internos, más chicos
+    for (let i = 0; i < petalCount; i++) {
+      const angle = (TWO_PI / petalCount) * i + PI / petalCount;
+
+      push();
+      rotateZ(angle);
+      translate(0, -3.1, 0);
+
+      fill(
+        red(petalColor) * 0.9,
+        green(petalColor) * 0.9,
+        blue(petalColor) * 0.9,
+        min(230, alpha)
+      );
+
+      scale(0.55, 1.0, 0.22);
+      ellipsoid(2.4, 3.2, 1);
+      pop();
+    }
+
+    // centro
+    fill(245, 230, 130, alpha);
+    ellipsoid(2.8, 2.8, 0.8);
 
     pop();
   }

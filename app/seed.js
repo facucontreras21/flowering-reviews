@@ -6,6 +6,7 @@ class Seed {
 
   display(state) {
     push();
+    translate(0, -14, -2);
     rotateX(HALF_PI);
     noStroke();
 

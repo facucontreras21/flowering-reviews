@@ -67,6 +67,31 @@ function draw() {
 
   globalWind = sin(frameCount * 0.01) * 10;
 
+  if (frameCount % 60 === 0) {
+    let visiblePlants = 0;
+    let totalStems = 0;
+
+    for (const plant of plants) {
+      if (selectedCountry === "ALL" || plant.country === selectedCountry) {
+        visiblePlants++;
+
+        if (plant.stems) {
+          totalStems += plant.stems.length;
+        } else {
+          totalStems += 1;
+        }
+      }
+    }
+
+    console.log({
+      fps: frameRate().toFixed(1),
+      visiblePlants,
+      totalPlants: plants.length,
+      totalStems,
+      selectedCountry,
+    });
+  }
+
   for (const plant of plants) {
     if (selectedCountry === "ALL" || plant.country === selectedCountry) {
       plant.update();

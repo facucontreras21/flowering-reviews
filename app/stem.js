@@ -29,7 +29,7 @@ class Stem {
     strokeWeight(2.5);
 
     beginShape();
-    const segments = 16;
+    const segments = 4;
 
     for (let i = 0; i <= segments; i++) {
       const t = i / segments;

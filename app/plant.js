@@ -24,6 +24,7 @@ class Plant {
     this.seedDelay = random(0, 1200);
 
     this.aliveSwayOffset = random(TWO_PI);
+    this.deathSide = random([ -1, 1 ]);
     this.seedColor = color(random(90, 255), random(90, 255), random(90, 255));
     this.stemColor = color(random(40, 90), random(120, 220), random(60, 120));
 
@@ -65,10 +66,7 @@ class Plant {
         }
       }
     } else if (this.state === "dying") {
-      this.flowers.update(this.state);
-      this.currentHeight *= 0.992;
-
-      if (elapsed > 4500) {
+      if (elapsed > 15000) {
         this.changeState("dead");
       }
     } else if (this.state === "alive") {
@@ -83,17 +81,39 @@ class Plant {
 
   display() {
     if (this.state === "dead") {
-      push();
-      translate(this.x, this.baseY, this.z);
-      noStroke();
-      fill(45);
-      sphere(2.5);
-      pop();
       return;
     }
 
     push();
     translate(this.x, this.baseY, this.z);
+
+    if (this.state === "dying") {
+      const elapsed = millis() - this.stateStart;
+      const deathProgress = constrain(elapsed / 15000, 0, 1);
+
+      // suaviza la caída para que no sea robótica
+      const easedFall = deathProgress * deathProgress * (3 - 2 * deathProgress);
+
+      // cae desde vertical hasta casi horizontal
+      const fallAngle = easedFall * HALF_PI * this.deathSide;
+
+      // desaparece hacia el final
+      const fadeAlpha = 255
+
+      // misma base que las plantas normales
+      this.seed.display(this.state);
+
+      push();
+      rotateZ(fallAngle);
+
+      this.stem.display(this.state, this.currentHeight);
+      this.flowers.display(this.state, this.currentHeight, this.stem, fadeAlpha);
+
+      pop();
+
+      pop();
+      return;
+    }
 
     this.seed.display(this.state);
     this.stem.display(this.state, this.currentHeight);
