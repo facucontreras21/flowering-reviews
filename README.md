@@ -143,11 +143,12 @@ flowering-reviews/
 │   ├── flower_cluster.js
 │   └── style.css
 │
-├── screenshots/
-│   ├── flowering-reviews-preview.png
-│   ├── country-selector.png
-│   ├── bloom-animation.gif
-│   └── dying-plant-animation.gif
+├── assets/
+│   └── screenshots/
+│       ├── flowering-reviews-preview.png
+│       ├── country-selector.png
+│       ├── bloom-animation.gif
+│       └── dying-plant-animation.gif
 │
 ├── data/
 │   ├── raw/

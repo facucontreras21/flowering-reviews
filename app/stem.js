@@ -35,7 +35,7 @@ class Stem {
     return { x, y, z: 0 };
   }
 
-  display(state, currentHeight, bloomProgress = 1)  {
+  display(state, currentHeight, bloomProgress = 1) {
     if (state === "seed") return;
 
     push();
@@ -61,8 +61,8 @@ class Stem {
       const easedBloom =
         bloomProgress * bloomProgress * (3 - 2 * bloomProgress);
 
-      // La primera hoja aparece antes.
-      // La segunda aparece un poco después y más arriba.
+      // The lower leaf appears first.
+      // The upper leaf appears slightly later.
       const leaf1Growth =
         state === "bloom"
           ? constrain(map(easedBloom, 0.15, 0.65, 0, 1), 0, 1)

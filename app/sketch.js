@@ -10,6 +10,8 @@ let countrySelect;
 const WORLD_WIDTH = 1400;
 const WORLD_DEPTH = 700;
 
+const DEBUG_STATS = false;
+
 const cameraState = {
   currentEye: null,
   targetEye: null,
@@ -39,7 +41,7 @@ function setup() {
 
   const records = Array.isArray(gardenData) ? gardenData : Object.values(gardenData);
 
-  plants = records.map((record, index) => new Plant(record, index));
+  plants = records.map((record) => new Plant(record));
   countryClusters = buildCountryClusters(plants);
   createCountrySelector(countryClusters);
 
@@ -67,27 +69,15 @@ function draw() {
 
   globalWind = sin(frameCount * 0.01) * 10;
 
-  if (frameCount % 60 === 0) {
-    let visiblePlants = 0;
-    let totalStems = 0;
-
-    for (const plant of plants) {
-      if (selectedCountry === "ALL" || plant.country === selectedCountry) {
-        visiblePlants++;
-
-        if (plant.stems) {
-          totalStems += plant.stems.length;
-        } else {
-          totalStems += 1;
-        }
-      }
-    }
+  if (DEBUG_STATS && frameCount % 60 === 0) {
+    const visiblePlants = plants.filter(
+      (plant) => selectedCountry === "ALL" || plant.country === selectedCountry
+    ).length;
 
     console.log({
       fps: frameRate().toFixed(1),
       visiblePlants,
       totalPlants: plants.length,
-      totalStems,
       selectedCountry,
     });
   }

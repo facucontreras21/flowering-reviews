@@ -1,7 +1,8 @@
-class Plant {
-  constructor(data, index = 0) {
-    this.data = data;
+const BLOOM_DURATION = 2500;
+const DEATH_DURATION = 15000;
 
+class Plant {
+  constructor(data) {
     this.placeName = data.place_name || "Unknown place";
     this.rating = Number(data.rating) || 0;
     this.textLength = Number(data.text_length) || 0;
@@ -24,7 +25,7 @@ class Plant {
     this.seedDelay = random(0, 1200);
 
     this.aliveSwayOffset = random(TWO_PI);
-    this.deathSide = random([ -1, 1 ]);
+    this.deathSide = random([-1, 1]);
     this.seedColor = color(random(90, 255), random(90, 255), random(90, 255));
     this.stemColor = color(random(40, 90), random(120, 220), random(60, 120));
 
@@ -38,8 +39,6 @@ class Plant {
     this.seed = new Seed(this.seedColor, this.aliveSwayOffset);
     this.stem = new Stem(this.stemColor, this.aliveSwayOffset);
     this.flowers = new FlowerCluster(this.flowerCount, this.flowerColors);
-
-    this.hoverRadius = 22;
   }
 
   update() {
@@ -55,10 +54,9 @@ class Plant {
       if (this.currentHeight > this.heightTarget * 0.92) {
         this.currentHeight = this.heightTarget;
         this.changeState("bloom");
-        this.flowers.spawnPetals(this.currentHeight);
       }
     } else if (this.state === "bloom") {
-      if (elapsed > 2500) {
+      if (elapsed > BLOOM_DURATION) {
         if (this.lifeState === "lives") {
           this.changeState("alive");
         } else {
@@ -66,17 +64,21 @@ class Plant {
         }
       }
     } else if (this.state === "dying") {
-      if (elapsed > 15000) {
+      if (elapsed > DEATH_DURATION) {
         this.changeState("dead");
       }
-    } else if (this.state === "alive") {
-      this.flowers.update(this.state);
     }
   }
 
   changeState(newState) {
     this.state = newState;
     this.stateStart = millis();
+  }
+
+  getBloomProgress() {
+    if (this.state !== "bloom") return 1;
+
+    return constrain((millis() - this.stateStart) / BLOOM_DURATION, 0, 1);
   }
 
   display() {
@@ -89,41 +91,27 @@ class Plant {
 
     if (this.state === "dying") {
       const elapsed = millis() - this.stateStart;
-      const deathProgress = constrain(elapsed / 15000, 0, 1);
-
-      // suaviza la caída para que no sea robótica
+      const deathProgress = constrain(elapsed / DEATH_DURATION, 0, 1);
       const easedFall = deathProgress * deathProgress * (3 - 2 * deathProgress);
-
-      // cae desde vertical hasta casi horizontal
       const fallAngle = easedFall * HALF_PI * this.deathSide;
 
-      // desaparece hacia el final
-      const fadeAlpha = 255
-
-      // misma base que las plantas normales
+      // Keep the seed halo on the ground while the stem and flowers fall.
       this.seed.display(this.state);
 
       push();
       rotateZ(fallAngle);
-
       this.stem.display(this.state, this.currentHeight);
       this.flowers.display(this.state, this.currentHeight, this.stem);
-
       pop();
 
       pop();
       return;
     }
 
+    const bloomProgress = this.getBloomProgress();
+
     this.seed.display(this.state);
-    
-    const bloomProgress =
-      this.state === "bloom"
-        ? constrain((millis() - this.stateStart) / 2500, 0, 1)
-        : 1;
-
     this.stem.display(this.state, this.currentHeight, bloomProgress);
-
     this.flowers.display(
       this.state,
       this.currentHeight,
@@ -140,7 +128,12 @@ class Plant {
       return createVector(this.x, this.baseY, this.z);
     }
 
-    const topPoint = this.stem.getPointAt(1, this.state, this.currentHeight);
+    const topPoint = this.stem.getPointAt(
+      1,
+      this.state,
+      this.currentHeight,
+      this.getBloomProgress()
+    );
 
     return createVector(
       this.x + topPoint.x,
