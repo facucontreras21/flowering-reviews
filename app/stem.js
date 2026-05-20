@@ -4,23 +4,38 @@ class Stem {
     this.swayOffset = swayOffset;
   }
 
-  getPointAt(t, state, currentHeight) {
-    const selfSway =
-      state === "alive"
-        ? sin(frameCount * 0.03 + this.swayOffset) * 5
+  getPointAt(t, state, currentHeight, bloomProgress = 1) {
+    const easedBloom =
+      bloomProgress * bloomProgress * (3 - 2 * bloomProgress);
+
+    const motionAmount =
+      state === "bloom"
+        ? easedBloom
+        : state === "alive"
+        ? 1
         : state === "dying"
-        ? sin(frameCount * 0.05 + this.swayOffset) * 3
+        ? 0.45
         : 0;
+
+    const swaySpeed =
+      state === "dying"
+        ? 0.05
+        : 0.03;
+
+    const selfSway =
+      sin(frameCount * swaySpeed + this.swayOffset) * 5 * motionAmount;
 
     const y = -currentHeight * t;
     const fallTilt = state === "dying" ? t * 18 : 0;
-    const windEffect = globalWind * t * 0.18;
+
+    const windEffect = globalWind * t * 0.18 * max(0.25, motionAmount);
+
     const x = sin(t * 2) * selfSway * 0.9 + fallTilt + windEffect;
 
     return { x, y, z: 0 };
   }
 
-  display(state, currentHeight) {
+  display(state, currentHeight, bloomProgress = 1)  {
     if (state === "seed") return;
 
     push();
@@ -33,30 +48,41 @@ class Stem {
 
     for (let i = 0; i <= segments; i++) {
       const t = i / segments;
-      const p = this.getPointAt(t, state, currentHeight);
+      const p = this.getPointAt(t, state, currentHeight, bloomProgress);
       curveVertex(p.x, p.y, p.z);
     }
 
     endShape();
 
-    if (state === "alive" || state === "dying") {
+    if (state === "bloom" || state === "alive" || state === "dying") {
       const leaf1T = 0.32;
       const leaf2T = 0.52;
 
-      const leaf1Growth = constrain(map(currentHeight, 18, 42, 0, 1), 0, 1);
-      const leaf2Growth = constrain(map(currentHeight, 38, 70, 0, 1), 0, 1);
+      const easedBloom =
+        bloomProgress * bloomProgress * (3 - 2 * bloomProgress);
+
+      // La primera hoja aparece antes.
+      // La segunda aparece un poco después y más arriba.
+      const leaf1Growth =
+        state === "bloom"
+          ? constrain(map(easedBloom, 0.15, 0.65, 0, 1), 0, 1)
+          : 1;
+
+      const leaf2Growth =
+        state === "bloom"
+          ? constrain(map(easedBloom, 0.38, 0.9, 0, 1), 0, 1)
+          : 1;
 
       if (leaf1Growth > 0) {
-        const leaf1 = this.getPointAt(leaf1T, state, currentHeight);
+        const leaf1 = this.getPointAt(leaf1T, state, currentHeight, bloomProgress);
         this.drawLeaf(leaf1.x, leaf1.y, leaf1.z, -1, 0.85, leaf1Growth);
       }
 
       if (leaf2Growth > 0) {
-        const leaf2 = this.getPointAt(leaf2T, state, currentHeight);
+        const leaf2 = this.getPointAt(leaf2T, state, currentHeight, bloomProgress);
         this.drawLeaf(leaf2.x, leaf2.y, leaf2.z, 1, 0.65, leaf2Growth);
       }
     }
-    
     pop();
   }
 

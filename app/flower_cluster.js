@@ -75,11 +75,11 @@ class FlowerCluster {
     }
   }
 
-  display(state, currentHeight, stem, alpha = 255) {
+  display(state, currentHeight, stem, alpha = 255,  bloomProgress = 1) {
     if (!["bloom", "alive", "dying"].includes(state)) return;
 
     // ===== FLOR PRINCIPAL EN LA PUNTA =====
-    const topPoint = stem.getPointAt(1, state, currentHeight);
+    const topPoint = stem.getPointAt(1, state, currentHeight, bloomProgress);
 
     push();
     translate(topPoint.x, topPoint.y, topPoint.z);
@@ -90,7 +90,7 @@ class FlowerCluster {
 
     translate(0, flowerYOffset, 6);
 
-    this.drawGeranium(this.flowerColors[0], alpha);
+    this.drawGeranium(this.flowerColors[0], alpha, bloomProgress);
     pop();
 
     // si solo hay una flor, terminamos acá
@@ -108,7 +108,7 @@ class FlowerCluster {
           ? 0.72
           : map(i, 0, sideFlowerCount - 1, 0.82, 0.5);
 
-      const stemPoint = stem.getPointAt(t, state, currentHeight);
+      const stemPoint = stem.getPointAt(t, state, currentHeight, bloomProgress);
 
       push();
       translate(stemPoint.x, stemPoint.y, stemPoint.z);
@@ -134,7 +134,8 @@ class FlowerCluster {
       // que la base de la flor toque el final del tallito
       this.drawGeranium(
         this.flowerColors[(i + 1) % this.flowerColors.length],
-        alpha
+        alpha,
+        bloomProgress
       );
 
       pop();
@@ -159,7 +160,7 @@ class FlowerCluster {
     }
   }
 
-  drawGeranium(petalColor, alpha = 255) {
+  drawGeranium(petalColor, alpha = 255, bloomProgress = 1) {
     push();
     noStroke();
 
@@ -174,14 +175,22 @@ class FlowerCluster {
       rotateZ(angle);
       translate(0, -radius, 0);
 
+      const petalDelay = i / petalCount;
+      const petalProgress = constrain(
+        (bloomProgress - petalDelay * 0.65) / 0.35,
+        0,
+        1
+      );
+      const easedPetal = petalProgress * petalProgress * (3 - 2 * petalProgress);
+
       fill(
         red(petalColor),
         green(petalColor),
         blue(petalColor),
-        min(235, alpha)
+        min(235, alpha) * easedPetal
       );
 
-      scale(0.75, 1.35, 0.25);
+      scale(0.75 * easedPetal, 1.35 * easedPetal, 0.25);
       ellipsoid(3, 3.8, 1.2);
       pop();
     }
@@ -194,20 +203,32 @@ class FlowerCluster {
       rotateZ(angle);
       translate(0, -3.1, 0);
 
+      const petalDelay = i / petalCount;
+      const petalProgress = constrain(
+        (bloomProgress - petalDelay * 0.65 - 0.15) / 0.35,
+        0,
+        1
+      );
+      const easedPetal = petalProgress * petalProgress * (3 - 2 * petalProgress);
+
       fill(
         red(petalColor) * 0.9,
         green(petalColor) * 0.9,
         blue(petalColor) * 0.9,
-        min(230, alpha)
+        min(230, alpha) * easedPetal
       );
 
-      scale(0.55, 1.0, 0.22);
+      scale(0.55 * easedPetal, 1.0 * easedPetal, 0.22);
       ellipsoid(2.4, 3.2, 1);
       pop();
     }
 
     // centro
-    fill(245, 230, 130, alpha);
+    const centerProgress = constrain((bloomProgress - 0.65) / 0.35, 0, 1);
+    const easedCenter = centerProgress * centerProgress * (3 - 2 * centerProgress);
+
+    fill(245, 230, 130, alpha * easedCenter);
+    scale(easedCenter);
     ellipsoid(2.8, 2.8, 0.8);
 
     pop();

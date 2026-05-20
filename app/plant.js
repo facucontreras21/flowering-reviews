@@ -58,7 +58,7 @@ class Plant {
         this.flowers.spawnPetals(this.currentHeight);
       }
     } else if (this.state === "bloom") {
-      if (elapsed > 1200) {
+      if (elapsed > 2500) {
         if (this.lifeState === "lives") {
           this.changeState("alive");
         } else {
@@ -107,7 +107,7 @@ class Plant {
       rotateZ(fallAngle);
 
       this.stem.display(this.state, this.currentHeight);
-      this.flowers.display(this.state, this.currentHeight, this.stem, fadeAlpha);
+      this.flowers.display(this.state, this.currentHeight, this.stem);
 
       pop();
 
@@ -116,8 +116,21 @@ class Plant {
     }
 
     this.seed.display(this.state);
-    this.stem.display(this.state, this.currentHeight);
-    this.flowers.display(this.state, this.currentHeight, this.stem);
+    
+    const bloomProgress =
+      this.state === "bloom"
+        ? constrain((millis() - this.stateStart) / 2500, 0, 1)
+        : 1;
+
+    this.stem.display(this.state, this.currentHeight, bloomProgress);
+
+    this.flowers.display(
+      this.state,
+      this.currentHeight,
+      this.stem,
+      255,
+      bloomProgress
+    );
 
     pop();
   }
