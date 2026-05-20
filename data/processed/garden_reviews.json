@@ -62,7 +62,7 @@
   {
     "id": "kimchee-busan-guesthouse-5",
     "place_name": "Kimchee Busan Guesthouse",
-    "country": "Korea, Republic of",
+    "country": "South Korea",
     "lon": 129.060344,
     "lat": 35.1483662,
     "rating": 3,
@@ -77,7 +77,7 @@
   {
     "id": "seoul-cube-jongro-6",
     "place_name": "Seoul Cube Jongro",
-    "country": "Korea, Republic of",
+    "country": "South Korea",
     "lon": 126.984665,
     "lat": 37.5691113,
     "rating": 5,
@@ -1562,7 +1562,7 @@
   {
     "id": "museo-vaticano-111",
     "place_name": "Museo Vaticano",
-    "country": "Holy See (Vatican City State)",
+    "country": "Vatican City",
     "lon": 12.4536413,
     "lat": 41.9064878,
     "rating": 3,
@@ -1577,7 +1577,7 @@
   {
     "id": "plaza-de-san-pedro-112",
     "place_name": "Plaza de San Pedro",
-    "country": "Holy See",
+    "country": "Vatican City",
     "lon": 12.4567302,
     "lat": 41.9022309,
     "rating": 3,

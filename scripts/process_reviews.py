@@ -24,7 +24,10 @@ COUNTRY_NAME_FALLBACKS = {
     "bélgica": "Belgium",
     "brasil": "Brazil",
     "chequia": "Czechia",
-    "ciudad del vaticano": "Holy See",
+    "ciudad del vaticano": "Vatican City",
+    "vatican city": "Vatican City",
+    "holy see": "Vatican City",
+    "holy see (vatican city state)": "Vatican City",
     "croacia": "Croatia",
     "corea del sur": "South Korea",
     "alemania": "Germany",
@@ -103,6 +106,25 @@ def normalize_country_candidate(text: str) -> str:
     text = re.sub(r"^\d+\s*", "", text)
     return text.strip()
 
+def canonical_country_name(country: str | None) -> str:
+    if not country:
+        return "Unknown"
+
+    candidate = normalize_country_candidate(country)
+
+    canonical_names = {
+        "holy see": "Vatican City",
+        "holy see (vatican city state)": "Vatican City",
+        "vatican city": "Vatican City",
+        "ciudad del vaticano": "Vatican City",
+
+        # Opcional, para que el selector quede más lindo
+        "korea, republic of": "South Korea",
+        "republic of korea": "South Korea",
+        "south korea": "South Korea",
+    }
+
+    return canonical_names.get(candidate, normalize_whitespace(country))
 
 def country_from_code(country_code: str | None) -> str | None:
     if not country_code or not isinstance(country_code, str):
@@ -287,7 +309,7 @@ def transform_review(feature: dict[str, Any], index: int) -> dict[str, Any] | No
     if not place_name or not isinstance(place_name, str):
         return None
 
-    country = extract_country(location, lon, lat)
+    country = canonical_country_name(extract_country(location, lon, lat))
     text_length = len(review_text)
 
     return {
