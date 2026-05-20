@@ -1,5 +1,7 @@
 # Flowering Reviews 🌼
 
+**What if every place you reviewed could grow into a flower?**
+
 **Flowering Reviews** is an interactive creative coding project that transforms personal Google Maps reviews into a living 3D garden.
 
 Each review becomes a plant. Ratings, review length, location, and life state influence how each plant grows, blooms, moves, or dies.
